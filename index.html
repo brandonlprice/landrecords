@@ -21,17 +21,33 @@
     integrity="sha512-HrFUyCEtIpxZloTgEKKMq4RFYhxjJkCiF5sDxuAokklOeZ68U2NPfh4MFtyIVWlsKtVbK5GD2/JzFyAfvT5ejA=="
     crossorigin=""></script>
 	
+	<!-- Load Leaflet MarkerCluster and Esri Leaflet Cluster from CDN -->
+  <link rel="stylesheet" type="text/css"
+    href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css"
+    integrity="sha512-BBToHPBStgMiw0lD4AtkRIZmdndhB6aQbXpX7omcrXeG2PauGBl2lzq2xUZTxaLxYz5IDHlmneCZ1IJ+P3kYtQ=="
+    crossorigin="">
+  <link rel="stylesheet" type="text/css" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css"
+    integrity="sha512-RLEjtaFGdC4iQMJDbMzim/dOvAu+8Qp9sw7QE4wIMYcg2goVoivzwgSZq9CsIxp4xKAZPKh5J2f2lOko2Ze6FQ=="
+    crossorigin="">
+  <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"
+    integrity="sha512-MQlyPV+ol2lp4KodaU/Xmrn+txc1TP15pOBF/2Sfre7MRsA/pB4Vy58bEqe9u7a7DczMLtU5wT8n7OblJepKbg=="
+    crossorigin=""></script>
+  <script src="https://unpkg.com/esri-leaflet-cluster@2.1.0/dist/esri-leaflet-cluster.js"
+    integrity="sha512-fEdNFHisleVtEYdLhW4Z2RsR7TN6hLutE/+O4D+skfTNY2rlHm8HOZARPWkdrFFy/+i2KjFxcZAKTUWaVfbV0g=="
+    crossorigin=""></script>
+	
+	<script src="PruneCluster.js"></script>
+	
 	<!-- Basemap Toggle -->
 	<link rel="stylesheet" href="L.Control.Basemaps.css" />
 	<script src="L.Control.Basemaps.js"></script>
 </head>
 <style>
-body {background-color: #f7f8f8;}
+body {background-color: #e9f3ff;}
 #panel    {font:14px Verdana;font-weight:bold;}
 .leaflet-popup-content-wrapper, .leaflet-popup-tip {
-    background: red;
     color: #333;
-    box-shadow: 0 3px 14px rgb(0 155 155);
+	font-size: .7em;
 }
 .leaflet-popup-content-wrapper {
     padding: 1px;
@@ -59,7 +75,7 @@ body {background-color: #f7f8f8;}
 	line-height: 0px;
 	}
 .collapsible {
-  background-color: #777;
+  background-color: black;
   color: white;
   cursor: pointer;
   padding: 10px;
@@ -67,8 +83,8 @@ body {background-color: #f7f8f8;}
   border: none;
   text-align: center;
   outline: none;
-  font-size: 16.5px;
-  height: 4.5vh;
+  font-size: 16px;
+  height: 3.1vh;
   line-height: 0vh;}
 
 .activated, .collapsible:hover {
@@ -92,26 +108,58 @@ body {background-color: #f7f8f8;}
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.2s ease-out;
-  background-color: #f1f1f1;
+  background-color: #e9f3ff;
+}
+.leaflet-container .leaflet-control-attribution, .leaflet-container .leaflet-control-scale {
+    	      font-size: 11px;
+               width: 50%;
 }
 html, body {
   overflow-y:hidden;
   height:100%;
 }
+#title {
+text-shadow:
+    -1px -1px 0 #fff,
+     0   -1px 0 #fff,
+     1px -1px 0 #fff,
+     1px  0   0 #fff,
+     1px  1px 0 #fff,
+     0    1px 0 #fff,
+    -1px  1px 0 #fff,
+    -1px  0   0 #fff;
+}
+#streetview {
+	cursor: pointer;
+	}
+	
+#streetview:hover {
+    background-color: #f4f4f4;
+}	
+
+
 </style>
 <body>
 <div>
-<div align=center id="panel" style="width:22%;height: 100vh;float: left; margin-left: -3px;"> 
-</br><p style="color: black; -webkit-text-stroke-width: .5px;-webkit-text-stroke-color: gray;font-weight: 900;font-size:1.1em;text-shadow: .5px 1.5px 2px gray">LA County Land Records</p><hr>
+<div align=center id="panel" style="width:20%;height: 100vh;float: left; margin-left: -3px;"> 
+<p style="color: black; -webkit-text-stroke-width: .5px;-webkit-text-stroke-color: gray;font-weight: 900;font-size:1.1em;text-shadow:
+    -1px -1px 0 #fff,
+     0   -1px 0 #fff,
+     1px -1px 0 #fff,
+     1px  0   0 #fff,
+     1px  1px 0 #fff,
+     0    1px 0 #fff,
+    -1px  1px 0 #fff,
+    -1px  0   0 #fff;padding-top: .5em;">Survey Record Searches</p><hr>
         <div id="latlong">  Lat:  <input type="text" id="lat">
           Long:  <input type="text" id="lng">
           <button onclick="buttonClick()">Click</button></div>
-		  <button class="collapsible activated" style="font-size: .9em;-webkit-box-shadow: 0 7px 4px #777;
+		  <button class="collapsible activated" style="font-size: .9em;-webkit-box-shadow: 0 7px 4px #777; background-color: black;
 	-moz-box-shadow: 0 7px 4px #777;
-	box-shadow: 0 7px 4px #777;">Search by Address/APN</button>
+	box-shadow: 0 7px 4px #777;font-weight: 800;">Find Map Records</button>
 <div class="content" style="max-height: 100%;"><br>
 	<div id="findbox"></div> <br>
-	<div style="font-size: .8em;">Find Records Nearby</div>
+	<div style="font-size: .8em;">Select Type</div>
 	<input type="checkbox" id="tm1" name="tm1" value="Tract Map" checked disabled>
   <img src="tmicon.png" >
   <label for="tm" style="font-size: .8em;font-weight:500;" >Tract Map</label><br>
@@ -132,13 +180,13 @@ html, body {
   <div><input id="go" type="submit" value="Go" onclick="queryFunction();bufferFunction();instructions();" disabled></br>&nbsp;</div>
   <p id="tractcounts" style="font-size: .8em; margin-top: -1em;"></p>
   <p id="parcelcounts" style="font-size: .8em; margin-top: -1em;"></p>
-  <p id="surveycounts" style="font-size: .8em; margin-top: -1em;"></p>
+  <p id="surveycounts" style="font-size: .8em; margin-top: -1em;"></p></br>
   </div>
   
   <button class="collapsible activated" style="font-size: .9em;-webkit-box-shadow: 0 7px 4px #777;
 	-moz-box-shadow: 0 7px 4px #777;
-	box-shadow: 0 7px 4px #777;">Search by Record</button>
-<div class="content" style="max-height: 100%;"><p style="font-size: .8em;">Record Number</p>
+	box-shadow: 0 7px 4px #777; background-color: black; font-weight: 800;">Search by Record No.</button>
+<div class="content" style="max-height: 100%;"></br>
   <label for="buffers" style="font-size: .8em;font-weight:600;"></label>
   <select id="recordtype" onchange="recordval()" name="recordtype" style="width: 34%;">
   <option value="" disabled selected style="display:none;">Select</option>
@@ -147,15 +195,15 @@ html, body {
     <option value="rsurvey">Record of Survey</option>
     <!--<option value="cornerrec">Corner Record</option>-->
   </select>
-<input type="text" id="recordnumber" name="recordnumber" style="width: 34%;" placeholder="Enter Record #"><button id="recordgo" onclick="recordgo()">Go</button>
+<input type="text" id="recordnumber" name="recordnumber" style="width: 34%;" placeholder="Enter Rec #">&nbsp;<button id="recordgo" onclick="recordgo()">Go</button>
   <p id="recordinfo" style="font-size: .8em;">&nbsp;</p>
   
 </div>
 </div>
 
-<div id="map" style="bottom: -25px; width: 77.75%; height: 95vh;float:right;border: 1px solid black;-webkit-box-shadow: 0 7px 4px #777;
+<div id="map" style="bottom: -1px; width: 79.25%; height: 96vh;float:right;border: 1px solid black;-webkit-box-shadow: 0 7px 4px #777;
 	-moz-box-shadow: 0 7px 4px #777;
-	box-shadow: 0 7px 4px #777;"></div>
+	box-shadow: 0 7px 4px #777;top: 1.2em;"></div>
 
 </div>
 <script>
@@ -175,6 +223,9 @@ for (i = 0; i < coll.length; i++) {
   });
 }
     var map = L.map('map').setView([34.18084, -118.308968], 10);  
+	
+	
+
 
     var basemaps = [
 	
@@ -204,7 +255,47 @@ for (i = 0; i < coll.length; i++) {
                     tileY: 0,
                     tileZ: 1
                 })
-            );
+			); 
+	      
+	L.esri.dynamicMapLayer({
+  url: 'https://dpw.gis.lacounty.gov/dpw/rest/services/benchmarks/MapServer',
+  opacity: 0.8,
+})		
+		
+  var landpoints = L.esri.dynamicMapLayer({
+  url: 'https://dpw.gis.lacounty.gov/dpw/rest/services/fieldbooks/MapServer',
+  opacity: 0.8,
+}).addTo(map);
+
+//L.esri.dynamicMapLayer({
+  //url: 'https://dpw.gis.lacounty.gov/dpw/rest/services/landrecords/MapServer',
+  //opacity: 0.8,
+//}).addTo(map);
+
+
+
+
+L.esri.featureLayer({
+    url: 'https://dpw.gis.lacounty.gov/dpw/rest/services/fieldbooks/MapServer/3',
+    pointToLayer: function (geojson, latlng) {
+      return PruneCluster.Marker(latLng.lat, latLng.lng);
+
+RegisterMarker();
+    }
+	
+  }).addTo(map);
+  
+  
+
+  //L.esri.Cluster.featureLayer({
+    //url: 'https://dpw.gis.lacounty.gov/dpw/rest/services/fieldbooks/MapServer/3',
+	//simplifyFactor: 5,
+	//precision: 5
+  //}).addTo(map);
+  
+  //L.esri.Cluster.featureLayer({
+    //url: 'https://dpw.gis.lacounty.gov/dpw/rest/services/fieldbooks/MapServer/13'
+  //}).addTo(map);
 			
 		//var surveypolygonrecords = L.esri.dynamicMapLayer({
 			//url: 'https://dpw.gis.lacounty.gov/dpw/rest/services/landrecords/MapServer/',
@@ -251,6 +342,60 @@ for (i = 0; i < coll.length; i++) {
 	var corner1 = L.latLng(34.817788, -118.885098),
 		corner2 = L.latLng(33.513344, -117.419580),
 		bounds = L.latLngBounds(corner1, corner2);
+	
+	
+	
+	var streetviewButton = L.control({position:'topleft'});
+
+streetviewButton.onAdd = function (map) {
+    this._div = L.DomUtil.create('div', 'streetview'); // create a div with a class "info"
+    this.update();
+    return this._div;
+};
+
+// method that we will use to update the control based on feature properties passed
+streetviewButton.update = function (props) {
+    this._div.innerHTML = "<button id='streetview' class='leaflet-touch leaflet-bar leaflet-control-layers' style='font-size:19px;font-weight: 900; color: black; position: relative;opacity: 1;'><img style='width: 17px;height:22px;margin-top:4px;' src='street-view.png'></button>";
+};
+
+streetviewButton.addTo(map);
+
+function googleStreet(e) {
+    //alert("Lat, Lon : " + e.latlng.lat + ", " + e.latlng.lng)
+	window.open("https://www.google.com/maps?layer=c&cbll=" + e.latlng.lat + "," + e.latlng.lng);
+	document.getElementById('map').style.cursor = ''
+}
+document.getElementById("streetview").addEventListener('click', rungooglestreetOnce);
+  
+  
+
+function rungooglestreetOnce(e){
+    document.getElementById("map").style.cursor =  'url("street-view_cursor.png"), auto';
+    e.stopImmediatePropagation();
+    map.once('click', googleStreet);
+	
+}
+
+//function streetviewnow(){
+    
+//}	
+	
+	var title = L.control({position:'bottomleft'});
+
+title.onAdd = function (map) {
+    this._div = L.DomUtil.create('div', 'title'); // create a div with a class "info"
+    this.update();
+    return this._div;
+};
+
+// method that we will use to update the control based on feature properties passed
+title.update = function (props) {
+    this._div.innerHTML = "<span id='title' style='font-size:19px;font-weight: 900; color: black; position: relative;opacity: 1;'>Land Records Viewer</span>";
+};
+
+title.addTo(map);
+	
+	
 	var info = L.control({position:'bottomleft'});
 
 info.onAdd = function (map) {
@@ -339,19 +484,19 @@ function bufferFunction() {
 	
 	
 	if (distance == "60.96") {
-		buffergroup.addLayer(L.circle(latlng, {radius: 60.96, fill: false, color: '#ff0000', dashArray: '20, 20', weight: '2'}));
+		buffergroup.addLayer(L.circle(latlng, {radius: 60.96, fill: false, color: '#ff0000', dashArray: '20, 20', weight: '3'}));
 		map.fitBounds(buffergroup.getBounds());
 		}
 	else if (distance == "152.4") {
-		buffergroup.addLayer(L.circle(latlng, {radius: 152.4, fill: false, color: '#ff0000', dashArray: '20, 20', weight: '2'}));
+		buffergroup.addLayer(L.circle(latlng, {radius: 152.4, fill: false, color: '#ff0000', dashArray: '20, 20', weight: '3'}));
 		map.fitBounds(buffergroup.getBounds());
 		}
 	else if (distance == "213.36") {
-		buffergroup.addLayer(L.circle(latlng, {radius: 213.36, fill: false, color: '#ff0000', dashArray: '20, 20', weight: '2'}));
+		buffergroup.addLayer(L.circle(latlng, {radius: 213.36, fill: false, color: '#ff0000', dashArray: '20, 20', weight: '3'}));
 		map.fitBounds(buffergroup.getBounds());
 		}
 	else if (distance == "304.8") {
-		buffergroup.addLayer(L.circle(latlng, {radius: 304.8, fill: false, color: '#ff0000', dashArray: '20, 20', weight: '2'}));
+		buffergroup.addLayer(L.circle(latlng, {radius: 304.8, fill: false, color: '#ff0000', dashArray: '20, 20', weight: '3'}));
 		map.fitBounds(buffergroup.getBounds());
 		}
 	else if (distance == "") {
@@ -382,37 +527,6 @@ var srquery = L.esri.query({
   });  
   
 
-
-
-function tmqueryFunction() {
-	latlng = markerLayer.getLatLng();
-     //map.removeLayer(featureCollection);
-	tmbufferResult.clearLayers();
-	document.getElementById("tractcounts").innerHTML = '';
-  if (document.getElementById("tm1").checked == true){
-tmquery.nearby(latlng, distance);
-tmquery.run(function (error, featureCollection, response) {
-  if (error) {
-    console.log(error);
-    return;
-  }
-  tmbufferResult.addData(featureCollection).addTo(map)
-  
-	
-  document.getElementById('tractcounts').innerHTML = 'Tract Map Records: ' + featureCollection.features.length;	
-	tmbufferResult.bindPopup(function (error, featureCollection) {
-    
-      return 'Risk Level: ' + featureCollection.features[0].properties.CLASS_DESC;
-    
-  });  
-	
-//L.geoJSON(featureCollection).addTo(map);
-  x = featureCollection.features.length;
- //map.fitBounds(L.geoJSON(featureCollection).getBounds());
-});
-}
-}
-
 function pmqueryFunction() {
 	latlng = markerLayer.getLatLng();
      //map.removeLayer(featureCollection);
@@ -428,13 +542,19 @@ pmquery.run(function (error, featureCollection, response) {
   pmbufferResult.addData(featureCollection).addTo(map)
   pmbufferResult.eachLayer(function (layer) {  
   layer.setStyle({fillColor :'#ff0099', weight: 2, color: '#e200e2'})   
-	});
+	layer.bindTooltip( 'REF: ' + layer.feature.properties.REFERENCE + '<br>' +
+        'SUB: ' + layer.feature.properties.SUB_NAME); 
+		layer.on("mouseover", function (e) { 
+                 //resets layer colors
+                layer.setStyle(highlight);  //highlights selected.
+            });
+		layer.on("mouseout", function (e) { 
+                 //resets layer colors
+                layer.setStyle({fillColor :'#ff0099', weight: 2, color: '#e200e2'});  //highlights selected.
+            });	
+		});
   document.getElementById('parcelcounts').innerHTML = 'Parcel Map Records: ' + featureCollection.features.length;	
-	pmbufferResult.bindPopup(function (error, featureCollection) {
-    
-      return 'Risk Level: ' + featureCollection.features[0].properties.CLASS_DESC;
-    
-  });  
+	  
 	
 //L.geoJSON(featureCollection).addTo(map);
   x = featureCollection.features.length;
@@ -458,13 +578,19 @@ srquery.run(function (error, featureCollection, response) {
   srbufferResult.addData(featureCollection).addTo(map)
   srbufferResult.eachLayer(function (layer) {  
   layer.setStyle({fillColor :'#00ff33', weight: 2, color: '#00ff33'})   
-	});
+	layer.bindTooltip( 'REF: ' + layer.feature.properties.RS_BOOK + '<br>' +
+        'SUB: ' + layer.feature.properties.BOOK_PAGE); 
+		layer.on("mouseover", function (e) { 
+                 //resets layer colors
+                layer.setStyle(highlight);  //highlights selected.
+            });
+		layer.on("mouseout", function (e) { 
+                 //resets layer colors
+                layer.setStyle({fillColor :'#00ff33', weight: 2, color: '#00ff33'});  //highlights selected.
+            });	
+		});
 	document.getElementById('surveycounts').innerHTML = 'Survey Map Records: ' + featureCollection.features.length;	
-	pmbufferResult.bindPopup(function (error, featureCollection) {
-    
-      return 'Risk Level: ' + featureCollection.features[0].properties.CLASS_DESC;
-    
-  });  
+	 
 	
 //L.geoJSON(featureCollection).addTo(map);
   x = featureCollection.features.length;
@@ -472,6 +598,63 @@ srquery.run(function (error, featureCollection, response) {
 });
 }
 }
+
+
+function tmqueryFunction() {
+	latlng = markerLayer.getLatLng();
+     //map.removeLayer(featureCollection);
+	 highlight = {
+		'color': 'yellow',
+		'weight': 2,
+		'opacity': 1,
+		'fillColor': 'yellow',
+	};
+	    
+	var tmstyle = {
+		'fillColor': '#3388ff',
+		'weight': 2,
+		'opacity': 1,
+		'color': '#3388ff',
+		'fillOpacity': 0
+	};
+	tmbufferResult.clearLayers();
+	document.getElementById("tractcounts").innerHTML = '';
+  if (document.getElementById("tm1").checked == true){
+tmquery.nearby(latlng, distance);
+tmquery.run(function (error, featureCollection, response) {
+  if (error) {
+    console.log(error);
+    return;
+  }
+  tmbufferResult.addData(featureCollection).addTo(map)
+  
+	
+  document.getElementById('tractcounts').innerHTML = 'Tract Map Records: ' + featureCollection.features.length;	
+	tmbufferResult.eachLayer(function(layer) {
+		layer.setStyle(tmstyle) 
+		layer.bindTooltip( 'REF: ' + layer.feature.properties.REFERENCE + '<br>' +
+        'SUB: ' + layer.feature.properties.SUB_NAME); 
+		layer.on("mouseover", function (e) { 
+                 //resets layer colors
+                layer.setStyle(highlight);  //highlights selected.
+            });
+		layer.on("mouseout", function (e) { 
+                 //resets layer colors
+                layer.setStyle(tmstyle);  //highlights selected.
+            });	
+
+    })
+	
+//L.geoJSON(featureCollection).addTo(map);
+  x = featureCollection.features.length;
+ //map.fitBounds(L.geoJSON(featureCollection).getBounds());
+});
+}
+}
+
+
+
+
 
 function queryFunction () {
        tmqueryFunction();
@@ -552,6 +735,18 @@ find.run(function (error, featureCollection, response) {
   console.log('Found ' + featureCollection.features.length + ' feature(s)');
   document.getElementById('recordinfo').innerHTML = 'RS' + featureCollection.features[0].properties.BOOK_PAGE + ', Record Date: ' + featureCollection.features[0].properties.RCRD_DATE;
   console.log(featureCollection.features[0].properties.REFERENCE + ', Record Date: ' + featureCollection.features[0].properties.RCRD_DATE);
+   srbufferResult.eachLayer(function(layer) {
+      layer.bindPopup(
+        'Rec Date: ' + layer.feature.properties.BOOK_PAGE + '<br>' +
+        'Rec #: ' + layer.feature.properties.RCRD_DATE);
+		
+    }); 
+	 
+srbufferResult.on("add", function (event) {
+	// Retrieve the layer through event.target
+  // http://leafletjs.com/reference-1.0.0.html#event-target
+	event.target.openPopup();
+});
   map.fitBounds(L.geoJSON(featureCollection).getBounds())
 });
   }
