@@ -1,0 +1,4686 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.13241951017982,
+          42.33670572170094
+        ]
+      },
+      "properties": {
+        "wayne_coun": 367635,
+        "wayne_co_1": "5279 MARTIN",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48210",
+        "wayne_co_5": "18011125.",
+        "wayne_co_6": 3393.26024437,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 435105.628418,
+        "wayne_c_10": 3393.26024437,
+        "Sheet1__Lo": "Munger Elementary-Mid School",
+        "Sheet1__Pr": "460 / 477 / 479",
+        "Sheet1__Ad": "5279 MARTIN",
+        "Sheet1__Cr": "at Devereaux",
+        "Sheet1__Zi": "48210",
+        "Sheet1__Ob": 158,
+        "ORIG_FID": 367634
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.11736438270339,
+          42.426396880548005
+        ]
+      },
+      "properties": {
+        "wayne_coun": 368369,
+        "wayne_co_1": "19021 WOODWARD AVENUE",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48203",
+        "wayne_co_5": "02002661.",
+        "wayne_co_6": 16509.5776256,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 12705678.5347,
+        "wayne_c_10": 16509.5776256,
+        "Sheet1__Lo": "Police Station 12th Pct.",
+        "Sheet1__Pr": "203",
+        "Sheet1__Ad": "19021 WOODWARD AVENUE",
+        "Sheet1__Cr": "at Woodward",
+        "Sheet1__Zi": "48203",
+        "Sheet1__Ob": 76,
+        "ORIG_FID": 368368
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.14282704853396,
+          42.36626705354487
+        ]
+      },
+      "properties": {
+        "wayne_coun": 373025,
+        "wayne_co_1": "7345 CHICAGO",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48204",
+        "wayne_co_5": "16004772-5",
+        "wayne_co_6": 408.0889684,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 10404.0114746,
+        "wayne_c_10": 408.088968404,
+        "Sheet1__Lo": "Greater MT. Tabor Ch.",
+        "Sheet1__Pr": "360 /416 / 417",
+        "Sheet1__Ad": "7345 CHICAGO",
+        "Sheet1__Cr": "near Livernois",
+        "Sheet1__Zi": "48204",
+        "Sheet1__Ob": 142,
+        "ORIG_FID": 373024
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.14416473586235,
+          42.431255611924556
+        ]
+      },
+      "properties": {
+        "wayne_coun": 374907,
+        "wayne_co_1": "7117 W SEVEN MILE",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48221",
+        "wayne_co_5": "16008559-63",
+        "wayne_co_6": 622.07066911,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 22907.5625,
+        "wayne_c_10": 622.070669114,
+        "Sheet1__Lo": "Sherwood Forest Branch",
+        "Sheet1__Pr": "208",
+        "Sheet1__Ad": "7117 W SEVEN MILE",
+        "Sheet1__Cr": "near Livernois",
+        "Sheet1__Zi": "48221",
+        "Sheet1__Ob": 79,
+        "ORIG_FID": 374906
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.15221760625907,
+          42.42516546448807
+        ]
+      },
+      "properties": {
+        "wayne_coun": 375988,
+        "wayne_co_1": "8100 CURTIS",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48221",
+        "wayne_co_5": "16008550.",
+        "wayne_co_6": 1656.6434743,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 144899.805664,
+        "wayne_c_10": 1656.6434743,
+        "Sheet1__Lo": "Bagley School",
+        "Sheet1__Pr": "209 / 239 / 258 / 259 / 260 / 387",
+        "Sheet1__Ad": "8100 CURTIS",
+        "Sheet1__Cr": "W. of Livernois",
+        "Sheet1__Zi": "48221",
+        "Sheet1__Ob": 80,
+        "ORIG_FID": 375987
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.15163063826884,
+          42.40796464882367
+        ]
+      },
+      "properties": {
+        "wayne_coun": 376530,
+        "wayne_co_1": "15547 GREENLAWN",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48238",
+        "wayne_co_5": "16029912.",
+        "wayne_co_6": 3326.47053544,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 526088.481934,
+        "wayne_c_10": 3326.47053544,
+        "Sheet1__Lo": "Fitzgerald Bethune School",
+        "Sheet1__Pr": "254 / 386 / 403",
+        "Sheet1__Ad": "15547 GREENLAWN",
+        "Sheet1__Cr": "W. of Livernois",
+        "Sheet1__Zi": "48238",
+        "Sheet1__Ob": 97,
+        "ORIG_FID": 376529
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.15451542570726,
+          42.40158985702724
+        ]
+      },
+      "properties": {
+        "wayne_coun": 376732,
+        "wayne_co_1": "8343 ELLSWORTH",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48238",
+        "wayne_co_5": "16006677-8",
+        "wayne_co_6": 366.20575288,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 8308.21728516,
+        "wayne_c_10": 366.205752877,
+        "Sheet1__Lo": "Northwest Unity Church",
+        "Sheet1__Pr": "389 / 402 / 490",
+        "Sheet1__Ad": "8343 ELLSWORTH",
+        "Sheet1__Cr": "S. of Fenkell E. of Wyoming",
+        "Sheet1__Zi": "48238",
+        "Sheet1__Ob": 136,
+        "ORIG_FID": 376731
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.15697976113766,
+          42.36192181717805
+        ]
+      },
+      "properties": {
+        "wayne_coun": 377620,
+        "wayne_co_1": "5151 OAKMAN BLVD",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48204",
+        "wayne_co_5": "18016271-5",
+        "wayne_co_6": 760.02348894,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 33587.8181152,
+        "wayne_c_10": 760.023488944,
+        "Sheet1__Lo": "Northwest Church of Christ",
+        "Sheet1__Pr": "370 / 371 / 408",
+        "Sheet1__Ad": "5151 OAKMAN BLVD",
+        "Sheet1__Cr": "at Wyoming",
+        "Sheet1__Zi": "48204",
+        "Sheet1__Ob": 132,
+        "ORIG_FID": 377619
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.16626273718092,
+          42.37355362400916
+        ]
+      },
+      "properties": {
+        "wayne_coun": 378618,
+        "wayne_co_1": "10628 PLYMOUTH",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48204",
+        "wayne_co_5": "18006659-63",
+        "wayne_co_6": 486.85615549,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 14311.9399414,
+        "wayne_c_10": 486.856155493,
+        "Sheet1__Lo": "Christ Temple Baptist Church",
+        "Sheet1__Pr": "353 / 356 / 393 / 394 / 404",
+        "Sheet1__Ad": "10628 PLYMOUTH",
+        "Sheet1__Cr": "at Meyers",
+        "Sheet1__Zi": "48204",
+        "Sheet1__Ob": 127,
+        "ORIG_FID": 378617
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1153084421148,
+          42.41906497077519
+        ]
+      },
+      "properties": {
+        "wayne_coun": 379012,
+        "wayne_co_1": "17400 MANDERSON",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48230",
+        "wayne_co_5": "02002564-5",
+        "wayne_co_6": 1689.41352361,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 108817.245117,
+        "wayne_c_10": 1689.41352361,
+        "Sheet1__Lo": "Word of Power Ministry",
+        "Sheet1__Pr": "204",
+        "Sheet1__Ad": "17400 MANDERSON",
+        "Sheet1__Cr": "W. of Woodward",
+        "Sheet1__Zi": "48203",
+        "Sheet1__Ob": 77,
+        "ORIG_FID": 379011
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.16650831769897,
+          42.39707793704537
+        ]
+      },
+      "properties": {
+        "wayne_coun": 379184,
+        "wayne_co_1": "14640 MEYERS",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48227",
+        "wayne_co_5": "16045979.",
+        "wayne_co_6": 5283.16417856,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 1415686.91357,
+        "wayne_c_10": 5283.16417856,
+        "Sheet1__Lo": "Adams Butzel Rec. Center",
+        "Sheet1__Pr": "166 / 381 / 383 / 392 / 396",
+        "Sheet1__Ad": "14640 MEYERS",
+        "Sheet1__Cr": "near Meyers",
+        "Sheet1__Zi": "48235",
+        "Sheet1__Ob": 134,
+        "ORIG_FID": 379183
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.17131653703917,
+          42.409250054814805
+        ]
+      },
+      "properties": {
+        "wayne_coun": 381892,
+        "wayne_co_1": "12827 PURITAN",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48227",
+        "wayne_co_5": "22011939-48",
+        "wayne_co_6": 645.2402415,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 21030.2797852,
+        "wayne_c_10": 645.2402415,
+        "Sheet1__Lo": "Christland M. B. C.",
+        "Sheet1__Pr": "384 / 385",
+        "Sheet1__Ad": "12827 PURITAN",
+        "Sheet1__Cr": "W. of James Couzens Hwy",
+        "Sheet1__Zi": "48227",
+        "Sheet1__Ob": 135,
+        "ORIG_FID": 381891
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.20505178911036,
+          42.36421112552975
+        ]
+      },
+      "properties": {
+        "wayne_coun": 388396,
+        "wayne_co_1": "16401 CHICAGO",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48228",
+        "wayne_co_5": "22003695.",
+        "wayne_co_6": 2639.62952727,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 435475.939453,
+        "wayne_c_10": 2639.62952727,
+        "Sheet1__Lo": "Henderson Upper School",
+        "Sheet1__Pr": "364 / 369 / 373 / 374",
+        "Sheet1__Ad": "16401 CHICAGO",
+        "Sheet1__Cr": "btwn Mettetal & St. Marys",
+        "Sheet1__Zi": "48228",
+        "Sheet1__Ob": 130,
+        "ORIG_FID": 388395
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.20035956339332,
+          42.43363333119519
+        ]
+      },
+      "properties": {
+        "wayne_coun": 390560,
+        "wayne_co_1": "19371 GREENFIELD",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48235",
+        "wayne_co_5": "22050536.",
+        "wayne_co_6": 609.57067383,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 20481.3276367,
+        "wayne_c_10": 609.570673826,
+        "Sheet1__Lo": "The Promise Land Church",
+        "Sheet1__Pr": "227 / 230",
+        "Sheet1__Ad": "19371 GREENFIELD",
+        "Sheet1__Cr": "at Vassar",
+        "Sheet1__Zi": "48235",
+        "Sheet1__Ob": 91,
+        "ORIG_FID": 390559
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.20873624468176,
+          42.351645564103436
+        ]
+      },
+      "properties": {
+        "wayne_coun": 392996,
+        "wayne_co_1": "16500 TIREMAN",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "",
+        "wayne_co_5": "22001787.003",
+        "wayne_co_6": 1857.80681015,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 205353.461914,
+        "wayne_c_10": 1857.80681015,
+        "Sheet1__Lo": "Boys & Girls Club l",
+        "Sheet1__Pr": "330 / 375",
+        "Sheet1__Ad": "16500 TIREMAN",
+        "Sheet1__Cr": "btwn Asbury Park & Woodmont",
+        "Sheet1__Zi": "48228",
+        "Sheet1__Ob": 119,
+        "ORIG_FID": 392995
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.22427267320418,
+          42.35800150236033
+        ]
+      },
+      "properties": {
+        "wayne_coun": 394413,
+        "wayne_co_1": "18700 JOY RD",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48228",
+        "wayne_co_5": "22002836-46",
+        "wayne_co_6": 673.21011083,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 23646.0002441,
+        "wayne_c_10": 673.210110826,
+        "Sheet1__Lo": "Second Grace Ch.",
+        "Sheet1__Pr": "331 / 347",
+        "Sheet1__Ad": "18700 JOY RD",
+        "Sheet1__Cr": "btwn Evergreen & Southfield Fwy.",
+        "Sheet1__Zi": "48228",
+        "Sheet1__Ob": 120,
+        "ORIG_FID": 394412
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.22159189116272,
+          42.420959365287366
+        ]
+      },
+      "properties": {
+        "wayne_coun": 395607,
+        "wayne_co_1": "8200 W OUTER DRIVE",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48219",
+        "wayne_co_5": "22074119-36",
+        "wayne_co_6": 4688.72170288,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 1373011.56104,
+        "wayne_c_10": 4688.72170288,
+        "Sheet1__Lo": "WCCCD - Northwest Campus",
+        "Sheet1__Pr": "278 / 279 / 283 / 305 / 307",
+        "Sheet1__Ad": "8200 W OUTER DRIVE",
+        "Sheet1__Cr": "near Southfield Fwy.",
+        "Sheet1__Zi": "48219",
+        "Sheet1__Ob": 104,
+        "ORIG_FID": 395606
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.23627293956876,
+          42.439334058126825
+        ]
+      },
+      "properties": {
+        "wayne_coun": 396337,
+        "wayne_co_1": "20196 EVERGREEN",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48219",
+        "wayne_co_5": "22095966-99",
+        "wayne_co_6": 4366.7907323,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 1003471.74414,
+        "wayne_c_10": 4366.7907323,
+        "Sheet1__Lo": "Henry Ford H.S.",
+        "Sheet1__Pr": "275 / 276 / 280 / 281 / 286",
+        "Sheet1__Ad": "20196 EVERGREEN",
+        "Sheet1__Cr": "btwn Trojan & Fargo",
+        "Sheet1__Zi": "48219",
+        "Sheet1__Ob": 103,
+        "ORIG_FID": 396336
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2343219933184,
+          42.36857148080094
+        ]
+      },
+      "properties": {
+        "wayne_coun": 397979,
+        "wayne_co_1": "9983 AUBURN",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48228",
+        "wayne_co_5": "22092786.001",
+        "wayne_co_6": 1755.33918644,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 162675.9375,
+        "wayne_c_10": 1755.33918644,
+        "Sheet1__Lo": "Mann School",
+        "Sheet1__Pr": "349 / 350 / 352 / 363 / 501",
+        "Sheet1__Ad": "9983 AUBURN",
+        "Sheet1__Cr": "W. of Evergreen S. of Plymouth",
+        "Sheet1__Zi": "48228",
+        "Sheet1__Ob": 125,
+        "ORIG_FID": 397978
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.23056388719405,
+          42.3638611151245
+        ]
+      },
+      "properties": {
+        "wayne_coun": 398221,
+        "wayne_co_1": "19321 CHICAGO",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48228",
+        "wayne_co_5": "22003852-63",
+        "wayne_co_6": 1723.37255757,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 159325.605957,
+        "wayne_c_10": 1723.37255757,
+        "Sheet1__Lo": "St. Suzanne Cody Rouge Comm Resource Center",
+        "Sheet1__Pr": "344 / 345 / 346 / 348",
+        "Sheet1__Ad": "19321 CHICAGO",
+        "Sheet1__Cr": "E. of Evergreen",
+        "Sheet1__Zi": "48228",
+        "Sheet1__Ob": 124,
+        "ORIG_FID": 398220
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.26288340367205,
+          42.419085326121454
+        ]
+      },
+      "properties": {
+        "wayne_coun": 405376,
+        "wayne_co_1": "22464 W GRAND RIVER",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48219",
+        "wayne_co_5": "22007803-6",
+        "wayne_co_6": 989.67617465,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 58440.472168,
+        "wayne_c_10": 989.676174654,
+        "Sheet1__Lo": "Christ. Fell. Of Love",
+        "Sheet1__Pr": "302",
+        "Sheet1__Ad": "22464 W GRAND RIVER",
+        "Sheet1__Cr": "btwn Lahser & Telegraph",
+        "Sheet1__Zi": "48219",
+        "Sheet1__Ob": 112,
+        "ORIG_FID": 405375
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.26997553328643,
+          42.43371658297305
+        ]
+      },
+      "properties": {
+        "wayne_coun": 405992,
+        "wayne_co_1": "19931 BERG RD",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48219",
+        "wayne_co_5": "22119359-68",
+        "wayne_co_6": 6618.59288471,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 1885977.92188,
+        "wayne_c_10": 6618.59288471,
+        "Sheet1__Lo": "Wright School",
+        "Sheet1__Pr": "261",
+        "Sheet1__Ad": "19931 BERG RD",
+        "Sheet1__Cr": "W. of Lahser N. of W. Seven Mile",
+        "Sheet1__Zi": "48219",
+        "Sheet1__Ob": 99,
+        "ORIG_FID": 405991
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.27056499027856,
+          42.43032174774389
+        ]
+      },
+      "properties": {
+        "wayne_coun": 405997,
+        "wayne_co_1": "23500 W SEVEN MILE",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48219",
+        "wayne_co_5": "22016809.001",
+        "wayne_co_6": 3540.21110064,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 521213.557617,
+        "wayne_c_10": 3540.21110064,
+        "Sheet1__Lo": "Greater Grace Temple",
+        "Sheet1__Pr": "264 / 271/ 298 / 300",
+        "Sheet1__Ad": "23500 W SEVEN MILE",
+        "Sheet1__Cr": "btwn Berg & Shiawasse",
+        "Sheet1__Zi": "48219",
+        "Sheet1__Ob": 101,
+        "ORIG_FID": 405996
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.05062633447722,
+          42.33735935600536
+        ]
+      },
+      "properties": {
+        "wayne_coun": 407274,
+        "wayne_co_1": "23 E ADAMS AVE",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48226",
+        "wayne_co_5": "01000291.",
+        "wayne_co_6": 405.82018158,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 10280.729248,
+        "wayne_c_10": 405.820181584,
+        "Sheet1__Lo": "Central United Meth. Ch.",
+        "Sheet1__Pr": "145 / 157",
+        "Sheet1__Ad": "23 E ADAMS AVE",
+        "Sheet1__Cr": "at Woodward",
+        "Sheet1__Zi": "48226",
+        "Sheet1__Ob": 57,
+        "ORIG_FID": 407273
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.05589994818955,
+          42.359520464535656
+        ]
+      },
+      "properties": {
+        "wayne_coun": 407573,
+        "wayne_co_1": "682 E WARREN",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48201",
+        "wayne_co_5": "03001351-55",
+        "wayne_co_6": 1576.93225728,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 139607.997803,
+        "wayne_c_10": 1576.93225728,
+        "Sheet1__Lo": "Plymouth United Church of Christ",
+        "Sheet1__Pr": "137",
+        "Sheet1__Ad": "682 E WARREN",
+        "Sheet1__Cr": "near I-75 Fwy.",
+        "Sheet1__Zi": "48201",
+        "Sheet1__Ob": 51,
+        "ORIG_FID": 407572
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.08030077775436,
+          42.38160695927159
+        ]
+      },
+      "properties": {
+        "wayne_coun": 408102,
+        "wayne_co_1": "8904 WOODWARD AVENUE",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48202",
+        "wayne_co_5": "01004338.",
+        "wayne_co_6": 795.8130042,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 39601.6403809,
+        "wayne_c_10": 795.8130042,
+        "Sheet1__Lo": "Considine Little Rock",
+        "Sheet1__Pr": "161 / 168",
+        "Sheet1__Ad": "8904 WOODWARD AVENUE",
+        "Sheet1__Cr": "at Clairmount",
+        "Sheet1__Zi": "48202",
+        "Sheet1__Ob": 64,
+        "ORIG_FID": 408101
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.03898655780777,
+          42.339672444223126
+        ]
+      },
+      "properties": {
+        "wayne_coun": 411960,
+        "wayne_co_1": "1010 ANTIETAM",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "",
+        "wayne_co_5": "05003716-49",
+        "wayne_co_6": 687.77559219,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 27757.6767578,
+        "wayne_c_10": 687.775592186,
+        "Sheet1__Lo": "Horatio Williams Foundation",
+        "Sheet1__Pr": "124",
+        "Sheet1__Ad": "1010 ANTIETAM",
+        "Sheet1__Cr": "near Gratiot",
+        "Sheet1__Zi": "48207",
+        "Sheet1__Ob": 43,
+        "ORIG_FID": 411959
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.02407748038664,
+          42.34418282048601
+        ]
+      },
+      "properties": {
+        "wayne_coun": 412110,
+        "wayne_co_1": "2725 MACOMB",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48207",
+        "wayne_co_5": "11000418-43",
+        "wayne_co_6": 1630.21138555,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 131088.2229,
+        "wayne_c_10": 1630.21138555,
+        "Sheet1__Lo": "Bunche Preparatory Academy",
+        "Sheet1__Pr": "125 / 497",
+        "Sheet1__Ad": "2725 MACOMB",
+        "Sheet1__Cr": "near Chene",
+        "Sheet1__Zi": "48207",
+        "Sheet1__Ob": 44,
+        "ORIG_FID": 412109
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.08360549576842,
+          42.34927052220377
+        ]
+      },
+      "properties": {
+        "wayne_coun": 413037,
+        "wayne_co_1": "2001 W WARREN",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48208",
+        "wayne_co_5": "08008087-105",
+        "wayne_co_6": 2935.98142172,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 536336.63501,
+        "wayne_c_10": 2935.98142172,
+        "Sheet1__Lo": "Murry Wright Campus",
+        "Sheet1__Pr": "69 / 458 / 464",
+        "Sheet1__Ad": "2001 W WARREN",
+        "Sheet1__Cr": "btwn Rosa Parks & 14th",
+        "Sheet1__Zi": "48208",
+        "Sheet1__Ob": 157,
+        "ORIG_FID": 413036
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.09564853591138,
+          42.37012215900781
+        ]
+      },
+      "properties": {
+        "wayne_coun": 416709,
+        "wayne_co_1": "1926 VIRGINIA PARK ST",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48206",
+        "wayne_co_5": "08007972-5",
+        "wayne_co_6": 1023.7198037,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 50427.3417969,
+        "wayne_c_10": 1023.7198037,
+        "Sheet1__Lo": "Grace Episcopal Church",
+        "Sheet1__Pr": "158 / 162 / 438",
+        "Sheet1__Ad": "1926 VIRGINIA PARK ST",
+        "Sheet1__Cr": "at Rosa Parks",
+        "Sheet1__Zi": "48206",
+        "Sheet1__Ob": 62,
+        "ORIG_FID": 416708
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.05487243831273,
+          42.44219335057113
+        ]
+      },
+      "properties": {
+        "wayne_coun": 417687,
+        "wayne_co_1": "2915 E OUTER DRIVE",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48234",
+        "wayne_co_5": "13009000-3",
+        "wayne_co_6": 3039.87388768,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 519977.293945,
+        "wayne_c_10": 3039.87388768,
+        "Sheet1__Lo": "Mason School",
+        "Sheet1__Pr": "177/ 191 / 192 / 195 / 198",
+        "Sheet1__Ad": "2915 E OUTER DRIVE",
+        "Sheet1__Cr": "btwn Lamont & Conley",
+        "Sheet1__Zi": "48234",
+        "Sheet1__Ob": 70,
+        "ORIG_FID": 417686
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.10965274991736,
+          42.386610418955755
+        ]
+      },
+      "properties": {
+        "wayne_coun": 420745,
+        "wayne_co_1": "2201 ELMHURST",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48206",
+        "wayne_co_5": "08003525.",
+        "wayne_co_6": 425.91766982,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 11064.998291,
+        "wayne_c_10": 425.917669823,
+        "Sheet1__Lo": "New Mt. Zion MBC.",
+        "Sheet1__Pr": "220 / 435",
+        "Sheet1__Ad": "2201 ELMHURST",
+        "Sheet1__Cr": "W. of 12th St. S of Davison",
+        "Sheet1__Zi": "48206",
+        "Sheet1__Ob": 87,
+        "ORIG_FID": 420744
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.00522823624733,
+          42.388725372125144
+        ]
+      },
+      "properties": {
+        "wayne_coun": 427122,
+        "wayne_co_1": "5900 MCCLELLAN",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48213",
+        "wayne_co_5": "19006908.",
+        "wayne_co_6": 1525.85979623,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 125870.248047,
+        "wayne_c_10": 1525.85979623,
+        "Sheet1__Lo": "Catherine C. Blackwell Institute",
+        "Sheet1__Pr": "97 / 98 / 100 / 101",
+        "Sheet1__Ad": "5900 MCCLELLAN",
+        "Sheet1__Cr": "at McClellan St. near Gratiot",
+        "Sheet1__Zi": "48213",
+        "Sheet1__Ob": 35,
+        "ORIG_FID": 427121
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.98551437735141,
+          42.380258187409694
+        ]
+      },
+      "properties": {
+        "wayne_coun": 429234,
+        "wayne_co_1": "3999 LEMAY",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48214",
+        "wayne_co_5": "21041704-18",
+        "wayne_co_6": 1983.25369307,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 192669.087158,
+        "wayne_c_10": 1983.25369307,
+        "Sheet1__Lo": "Barack Obama Leadership Acad",
+        "Sheet1__Pr": "112",
+        "Sheet1__Ad": "3999 LEMAY",
+        "Sheet1__Cr": "btwn Mack & E. Warren",
+        "Sheet1__Zi": "48214",
+        "Sheet1__Ob": 38,
+        "ORIG_FID": 429233
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.00369154256016,
+          42.39909609514871
+        ]
+      },
+      "properties": {
+        "wayne_coun": 429638,
+        "wayne_co_1": "10101 KNODELL",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48213",
+        "wayne_co_5": "19002827.",
+        "wayne_co_6": 322.78929858,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 6355.02148438,
+        "wayne_c_10": 322.789298581,
+        "Sheet1__Lo": "Fire Station 46",
+        "Sheet1__Pr": "102",
+        "Sheet1__Ad": "10101 KNODELL",
+        "Sheet1__Cr": "at Grace St. near Gratiot",
+        "Sheet1__Zi": "48213",
+        "Sheet1__Ob": 36,
+        "ORIG_FID": 429637
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.96202136459294,
+          42.38537851488719
+        ]
+      },
+      "properties": {
+        "wayne_coun": 433230,
+        "wayne_co_1": "3952 DICKERSON",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48215",
+        "wayne_co_5": "21049049.",
+        "wayne_co_6": 761.47562688,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 32631.2175293,
+        "wayne_c_10": 761.475626876,
+        "Sheet1__Lo": "Greater St. Stephen Ch.",
+        "Sheet1__Pr": "15/ 16/ 25",
+        "Sheet1__Ad": "3952 DICKERSON",
+        "Sheet1__Cr": "at Mack",
+        "Sheet1__Zi": "48215",
+        "Sheet1__Ob": 8,
+        "ORIG_FID": 433229
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9620114468607,
+          42.4395563382842
+        ]
+      },
+      "properties": {
+        "wayne_coun": 439342,
+        "wayne_co_1": "19601 CRUSADE",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48205",
+        "wayne_co_5": "21024028.002L",
+        "wayne_co_6": 5665.39890384,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 1334725.25586,
+        "wayne_c_10": 5665.39890384,
+        "Sheet1__Lo": "Heilman Recreation",
+        "Sheet1__Pr": "44 / 45 / 82 / 83",
+        "Sheet1__Ad": "19601 CRUSADE",
+        "Sheet1__Cr": "near E. Seven Mile",
+        "Sheet1__Zi": "48205",
+        "Sheet1__Ob": 17,
+        "ORIG_FID": 439341
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.10621288109773,
+          42.356705548739946
+        ]
+      },
+      "properties": {
+        "wayne_coun": 444778,
+        "wayne_co_1": "6300 W GRAND RIVER",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48208",
+        "wayne_co_5": "12006105-8",
+        "wayne_co_6": 2494.14097636,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 423734.429199,
+        "wayne_c_10": 2494.14097636,
+        "Sheet1__Lo": "Tabernacle Bpt. Ch.",
+        "Sheet1__Pr": "419 / 448 / 449 / 453",
+        "Sheet1__Ad": "6300 W GRAND RIVER",
+        "Sheet1__Cr": "btwn Grand River & Lawton",
+        "Sheet1__Zi": "48208",
+        "Sheet1__Ob": 144,
+        "ORIG_FID": 444777
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.12827860548633,
+          42.366395345903975
+        ]
+      },
+      "properties": {
+        "wayne_coun": 448244,
+        "wayne_co_1": "4924 JOY RD",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48204",
+        "wayne_co_5": "14003395-9",
+        "wayne_co_6": 560.24119365,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 19221.7624512,
+        "wayne_c_10": 560.241193655,
+        "Sheet1__Lo": "Roy A. Allen Sen. Ctr.",
+        "Sheet1__Pr": "447 /450",
+        "Sheet1__Ad": "4924 JOY RD",
+        "Sheet1__Cr": "W. of Dexter",
+        "Sheet1__Zi": "48204",
+        "Sheet1__Ob": 154,
+        "ORIG_FID": 448243
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.09389356272294,
+          42.31636453349791
+        ]
+      },
+      "properties": {
+        "wayne_coun": 449645,
+        "wayne_co_1": "4410 PORTER",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48209",
+        "wayne_co_5": "14010211.",
+        "wayne_co_6": 973.38929273,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 49369.246582,
+        "wayne_c_10": 973.389292729,
+        "Sheet1__Lo": "Maybury Elementary School",
+        "Sheet1__Pr": "461 / 475",
+        "Sheet1__Ad": "4410 PORTER",
+        "Sheet1__Cr": "btwn Clark Ave. & McKinstry St.",
+        "Sheet1__Zi": "48209",
+        "Sheet1__Ob": 159,
+        "ORIG_FID": 449644
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.05208819640245,
+          42.35095831926028
+        ]
+      },
+      "properties": {
+        "wayne_coun": 451214,
+        "wayne_co_1": "553 MACK",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48201",
+        "wayne_co_5": "03000846-99",
+        "wayne_co_6": 2347.0200208,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 346390.833008,
+        "wayne_c_10": 2347.0200208,
+        "Sheet1__Lo": "Spain School",
+        "Sheet1__Pr": "139",
+        "Sheet1__Ad": "553 MACK",
+        "Sheet1__Cr": "btwn Mack & Alexandrine",
+        "Sheet1__Zi": "48201",
+        "Sheet1__Ob": 53,
+        "ORIG_FID": 451213
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.07559718412858,
+          42.374650520041875
+        ]
+      },
+      "properties": {
+        "wayne_coun": 453978,
+        "wayne_co_1": "8000 WOODWARD AVENUE",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48202",
+        "wayne_co_5": "01004312.",
+        "wayne_co_6": 957.67640131,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 56458.9177246,
+        "wayne_c_10": 957.676401308,
+        "Sheet1__Lo": "Metro United Meth.",
+        "Sheet1__Pr": "59 / 167",
+        "Sheet1__Ad": "8000 WOODWARD AVENUE",
+        "Sheet1__Cr": "N. of W. Grand Blvd",
+        "Sheet1__Zi": "48202",
+        "Sheet1__Ob": 67,
+        "ORIG_FID": 453977
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.10310550572265,
+          42.432028607554194
+        ]
+      },
+      "properties": {
+        "wayne_coun": 455233,
+        "wayne_co_1": "35 W SEVEN MILE",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48203",
+        "wayne_co_5": "01006922.",
+        "wayne_co_6": 390.73053067,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 9221.03417969,
+        "wayne_c_10": 390.730530667,
+        "Sheet1__Lo": "Fire Station 44",
+        "Sheet1__Pr": "184",
+        "Sheet1__Ad": "35 W SEVEN MILE",
+        "Sheet1__Cr": "at John R. St.",
+        "Sheet1__Zi": "48203",
+        "Sheet1__Ob": 73,
+        "ORIG_FID": 455232
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.06091758256305,
+          42.34853873473404
+        ]
+      },
+      "properties": {
+        "wayne_coun": 458113,
+        "wayne_co_1": "91 SELDEN",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48201",
+        "wayne_co_5": "02000799.",
+        "wayne_co_6": 524.32256073,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 15485.4504395,
+        "wayne_c_10": 524.322560725,
+        "Sheet1__Lo": "Detroit School of Arts",
+        "Sheet1__Pr": "150",
+        "Sheet1__Ad": "91 SELDEN",
+        "Sheet1__Cr": "btwn Cass & Woodward",
+        "Sheet1__Zi": "48201",
+        "Sheet1__Ob": 61,
+        "ORIG_FID": 458112
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.06928948248753,
+          42.35837150580767
+        ]
+      },
+      "properties": {
+        "wayne_coun": 458474,
+        "wayne_co_1": "5603 CASS",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48202",
+        "wayne_co_5": "02002175-98",
+        "wayne_co_6": 5172.4339926,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 1145983.05029,
+        "wayne_c_10": 5172.4339926,
+        "Sheet1__Lo": "Wayne State Law School",
+        "Sheet1__Pr": "147",
+        "Sheet1__Ad": "5603 CASS",
+        "Sheet1__Cr": "near Cass Ave.",
+        "Sheet1__Zi": "48202",
+        "Sheet1__Ob": 59,
+        "ORIG_FID": 458473
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.07360694244643,
+          42.364765863913675
+        ]
+      },
+      "properties": {
+        "wayne_coun": 458535,
+        "wayne_co_1": "6100 SECOND",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48202",
+        "wayne_co_5": "02002434.",
+        "wayne_co_6": 440.84220282,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 11227.8857422,
+        "wayne_c_10": 440.842202821,
+        "Sheet1__Lo": "Fire Station 17",
+        "Sheet1__Pr": "164",
+        "Sheet1__Ad": "6100 SECOND",
+        "Sheet1__Cr": "S. of W. Grand Blvd E. of Lodge Fwy.",
+        "Sheet1__Zi": "48202",
+        "Sheet1__Ob": 65,
+        "ORIG_FID": 458534
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.12825482870117,
+          42.373915200711224
+        ]
+      },
+      "properties": {
+        "wayne_coun": 458639,
+        "wayne_co_1": "4441 COLLINGWOOD",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48204",
+        "wayne_co_5": "14003629-36",
+        "wayne_co_6": 2271.63397503,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 316439.730469,
+        "wayne_c_10": 2271.63397503,
+        "Sheet1__Lo": "Keiden School",
+        "Sheet1__Pr": "399 / 428",
+        "Sheet1__Ad": "4441 COLLINGWOOD",
+        "Sheet1__Cr": "btwn Broadstreet & Dexter Ave.",
+        "Sheet1__Zi": "48204",
+        "Sheet1__Ob": 138,
+        "ORIG_FID": 458638
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1384615316382,
+          42.42723538714495
+        ]
+      },
+      "properties": {
+        "wayne_coun": 460828,
+        "wayne_co_1": "18460 WARRINGTON",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48221",
+        "wayne_co_5": "02004021.",
+        "wayne_co_6": 2456.76545442,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 370978.230957,
+        "wayne_c_10": 2456.76545442,
+        "Sheet1__Lo": "Palmer Park Prep Academy",
+        "Sheet1__Pr": "207",
+        "Sheet1__Ad": "18460 WARRINGTON",
+        "Sheet1__Cr": "near Livernois",
+        "Sheet1__Zi": "48221",
+        "Sheet1__Ob": 78,
+        "ORIG_FID": 460827
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.14140966763333,
+          42.439587802405434
+        ]
+      },
+      "properties": {
+        "wayne_coun": 461168,
+        "wayne_co_1": "19940 LIVERNOIS",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48221",
+        "wayne_co_5": "02004461-2",
+        "wayne_co_6": 266.48842456,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 4396.0546875,
+        "wayne_c_10": 266.488424563,
+        "Sheet1__Lo": "New Propect Ch. (ANNEX)",
+        "Sheet1__Pr": "200 / 221",
+        "Sheet1__Ad": "19940 LIVERNOIS",
+        "Sheet1__Cr": "S. of W. Eight Mile",
+        "Sheet1__Zi": "48221",
+        "Sheet1__Ob": 75,
+        "ORIG_FID": 461167
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.98635729561177,
+          42.39396552218339
+        ]
+      },
+      "properties": {
+        "wayne_coun": 461600,
+        "wayne_co_1": "5901 CONNER",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48213",
+        "wayne_co_5": "21043954.002L",
+        "wayne_co_6": 3309.75096801,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 488066.50293,
+        "wayne_c_10": 3309.75096801,
+        "Sheet1__Lo": "WCCCD - East Campus",
+        "Sheet1__Pr": "27",
+        "Sheet1__Ad": "5901 CONNER",
+        "Sheet1__Cr": "near St. Jean St.",
+        "Sheet1__Zi": "48213",
+        "Sheet1__Ob": 12,
+        "ORIG_FID": 461599
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.05638336562296,
+          42.360801164459815
+        ]
+      },
+      "properties": {
+        "wayne_coun": 462449,
+        "wayne_co_1": "5050 ST ANTOINE",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48202",
+        "wayne_co_5": "03003261-9",
+        "wayne_co_6": 1784.74096488,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 176098.212158,
+        "wayne_c_10": 1784.74096488,
+        "Sheet1__Lo": "Bethel AME Ch. Hall",
+        "Sheet1__Pr": "136",
+        "Sheet1__Ad": "5050 ST ANTOINE",
+        "Sheet1__Cr": "N. of E. Warren E. of Woodward",
+        "Sheet1__Zi": "48202",
+        "Sheet1__Ob": 50,
+        "ORIG_FID": 462448
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.07899037422875,
+          42.382751590187176
+        ]
+      },
+      "properties": {
+        "wayne_coun": 462606,
+        "wayne_co_1": "9026 WOODWARD AVENUE",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48202",
+        "wayne_co_5": "01004340.",
+        "wayne_co_6": 2735.18003704,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 328404.017578,
+        "wayne_c_10": 2735.18003704,
+        "Sheet1__Lo": "Fredrick Douglas",
+        "Sheet1__Pr": "159 / 169",
+        "Sheet1__Ad": "9026 WOODWARD AVENUE",
+        "Sheet1__Cr": "at Clairmount",
+        "Sheet1__Zi": "48202",
+        "Sheet1__Ob": 63,
+        "ORIG_FID": 462605
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.06052075065931,
+          42.33907581843437
+        ]
+      },
+      "properties": {
+        "wayne_coun": 463440,
+        "wayne_co_1": "633 LEDYARD",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48201",
+        "wayne_co_5": "04000534-50",
+        "wayne_co_6": 597.2384882,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 16187.262207,
+        "wayne_c_10": 597.238488201,
+        "Sheet1__Lo": "Cass Technical High School",
+        "Sheet1__Pr": "146",
+        "Sheet1__Ad": "633 LEDYARD",
+        "Sheet1__Cr": "at Ledyard St.",
+        "Sheet1__Zi": "48201",
+        "Sheet1__Ob": 58,
+        "ORIG_FID": 463439
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0550833411046,
+          42.32408578347271
+        ]
+      },
+      "properties": {
+        "wayne_coun": 466567,
+        "wayne_co_1": "951 W JEFFERSON",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48226",
+        "wayne_co_5": "06000001.002",
+        "wayne_co_6": 546.06014844,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 16634.4055176,
+        "wayne_c_10": 546.060148441,
+        "Sheet1__Lo": "River Front Apts",
+        "Sheet1__Pr": "144",
+        "Sheet1__Ad": "951 W JEFFERSON",
+        "Sheet1__Cr": "S. of W. Jefferson W. of Woodward",
+        "Sheet1__Zi": "48226",
+        "Sheet1__Ob": 56,
+        "ORIG_FID": 466566
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.03373681532797,
+          42.33828862416613
+        ]
+      },
+      "properties": {
+        "wayne_coun": 469778,
+        "wayne_co_1": "1445 E LAFAYETTE",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48207",
+        "wayne_co_5": "07000259-91",
+        "wayne_co_6": 1441.94316905,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 129157.974854,
+        "wayne_c_10": 1441.94316905,
+        "Sheet1__Lo": "Chrysler School",
+        "Sheet1__Pr": "123",
+        "Sheet1__Ad": "1445 E LAFAYETTE",
+        "Sheet1__Cr": "E. of Russell",
+        "Sheet1__Zi": "48207",
+        "Sheet1__Ob": 42,
+        "ORIG_FID": 469777
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.06266150427552,
+          42.35525099536008
+        ]
+      },
+      "properties": {
+        "wayne_coun": 470052,
+        "wayne_co_1": "4700 WOODWARD AVENUE",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48201",
+        "wayne_co_5": "01004223.",
+        "wayne_co_6": 775.06734638,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 37251.7109375,
+        "wayne_c_10": 775.067346384,
+        "Sheet1__Lo": "First Congregational Church",
+        "Sheet1__Pr": "138 / 151 / 500",
+        "Sheet1__Ad": "4700 WOODWARD AVENUE",
+        "Sheet1__Cr": "at Woodward",
+        "Sheet1__Zi": "48201",
+        "Sheet1__Ob": 52,
+        "ORIG_FID": 470051
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.09726543421739,
+          42.37079386373767
+        ]
+      },
+      "properties": {
+        "wayne_coun": 471423,
+        "wayne_co_1": "1969 W PHILADELPHIA",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48206",
+        "wayne_co_5": "08002155-7",
+        "wayne_co_6": 407.77936699,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 9717.36669922,
+        "wayne_c_10": 407.779366988,
+        "Sheet1__Lo": "Williams Community Center",
+        "Sheet1__Pr": "165 / 442",
+        "Sheet1__Ad": "1969 W PHILADELPHIA",
+        "Sheet1__Cr": "near W. Euclid St.",
+        "Sheet1__Zi": "48206",
+        "Sheet1__Ob": 66,
+        "ORIG_FID": 471422
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.12241600101763,
+          42.39414554370529
+        ]
+      },
+      "properties": {
+        "wayne_coun": 473603,
+        "wayne_co_1": "13614 LINWOOD",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48238",
+        "wayne_co_5": "10007504-7",
+        "wayne_co_6": 346.66565071,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 7499.89550781,
+        "wayne_c_10": 346.66565071,
+        "Sheet1__Lo": "Flowery Mount Baptist",
+        "Sheet1__Pr": "215",
+        "Sheet1__Ad": "13614 LINWOOD",
+        "Sheet1__Cr": "At Davidson",
+        "Sheet1__Zi": "48238",
+        "Sheet1__Ob": 83,
+        "ORIG_FID": 473602
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.07417828326678,
+          42.343066548018
+        ]
+      },
+      "properties": {
+        "wayne_coun": 474843,
+        "wayne_co_1": "3666 W GRAND RIVER",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48208",
+        "wayne_co_5": "08001190.",
+        "wayne_co_6": 1283.01686164,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 80243.2556152,
+        "wayne_c_10": 1283.01686164,
+        "Sheet1__Lo": "Douglass Branch Library",
+        "Sheet1__Pr": "143",
+        "Sheet1__Ad": "3666 W GRAND RIVER",
+        "Sheet1__Cr": "near Trumball",
+        "Sheet1__Zi": "48208",
+        "Sheet1__Ob": 55,
+        "ORIG_FID": 474842
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.07282506605081,
+          42.43224960270735
+        ]
+      },
+      "properties": {
+        "wayne_coun": 475678,
+        "wayne_co_1": "19000 CONANT",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "",
+        "wayne_co_5": "13025135-45A",
+        "wayne_co_6": 628.80921483,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 18308.1616211,
+        "wayne_c_10": 628.809214829,
+        "Sheet1__Lo": "Faith Temple Ch.",
+        "Sheet1__Pr": "89 / 174",
+        "Sheet1__Ad": "19000 CONANT",
+        "Sheet1__Cr": "at. E. Seven Mile",
+        "Sheet1__Zi": "48234",
+        "Sheet1__Ob": 30,
+        "ORIG_FID": 475677
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0789001739066,
+          42.43266478867979
+        ]
+      },
+      "properties": {
+        "wayne_coun": 481602,
+        "wayne_co_1": "2318 E SEVEN MILE",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48234",
+        "wayne_co_5": "09007426.",
+        "wayne_co_6": 239.76522492,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 2007.69824219,
+        "wayne_c_10": 239.765224916,
+        "Sheet1__Lo": "Chosen Gen WLB Hall",
+        "Sheet1__Pr": "183 / 190",
+        "Sheet1__Ad": "2318 E SEVEN MILE",
+        "Sheet1__Cr": "W. of Ryan",
+        "Sheet1__Zi": "48234",
+        "Sheet1__Ob": 72,
+        "ORIG_FID": 481601
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.09172593038653,
+          42.4362813485849
+        ]
+      },
+      "properties": {
+        "wayne_coun": 482386,
+        "wayne_co_1": "1150 E LANTZ",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48203",
+        "wayne_co_5": "09020902.",
+        "wayne_co_6": 2579.85013032,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 388701.804688,
+        "wayne_c_10": 2579.85013032,
+        "Sheet1__Lo": "Nolan Middle School",
+        "Sheet1__Pr": "172 / 178 / 185 / 189",
+        "Sheet1__Ad": "1150 E LANTZ",
+        "Sheet1__Cr": "S. of E. State Fair W. of Conant",
+        "Sheet1__Zi": "48203",
+        "Sheet1__Ob": 68,
+        "ORIG_FID": 482385
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.06430330333124,
+          42.4099451589336
+        ]
+      },
+      "properties": {
+        "wayne_coun": 484340,
+        "wayne_co_1": "12555 MCDOUGALL",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48212",
+        "wayne_co_5": "09010731-2",
+        "wayne_co_6": 1658.98869896,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 73029.4008789,
+        "wayne_c_10": 1658.98869896,
+        "Sheet1__Lo": "Islamic Center for North Detroit Hall",
+        "Sheet1__Pr": "91",
+        "Sheet1__Ad": "12555 MCDOUGALL",
+        "Sheet1__Cr": "near Davison Fwy.",
+        "Sheet1__Zi": "48212",
+        "Sheet1__Ob": 32,
+        "ORIG_FID": 484339
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.10322252538938,
+          42.356633056411546
+        ]
+      },
+      "properties": {
+        "wayne_coun": 492212,
+        "wayne_co_1": "6100 W GRAND RIVER",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48208",
+        "wayne_co_5": "12006109-11",
+        "wayne_co_6": 5590.07013955,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 1521633.61206,
+        "wayne_c_10": 5590.07013955,
+        "Sheet1__Lo": "Detroit Northwestern",
+        "Sheet1__Pr": "433 / 436 / 439 / 440 / 441 / 443",
+        "Sheet1__Ad": "6100 W GRAND RIVER",
+        "Sheet1__Cr": "btwn Lawton & Grand River",
+        "Sheet1__Zi": "48208",
+        "Sheet1__Ob": 152,
+        "ORIG_FID": 492211
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.11234908198921,
+          42.38264723948045
+        ]
+      },
+      "properties": {
+        "wayne_coun": 494300,
+        "wayne_co_1": "10000 LINWOOD",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48206",
+        "wayne_co_5": "10007460.",
+        "wayne_co_6": 5010.24966337,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 1637478.93872,
+        "wayne_c_10": 5010.24966337,
+        "Sheet1__Lo": "Central High School",
+        "Sheet1__Pr": "429 / 432",
+        "Sheet1__Ad": "10000 LINWOOD",
+        "Sheet1__Cr": "at Linwood",
+        "Sheet1__Zi": "48206",
+        "Sheet1__Ob": 150,
+        "ORIG_FID": 494299
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0779203164429,
+          42.33914412255788
+        ]
+      },
+      "properties": {
+        "wayne_coun": 495158,
+        "wayne_co_1": "2001 MYRTLE",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48208",
+        "wayne_co_5": "08000907-19",
+        "wayne_co_6": 2515.65018284,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 387231.718506,
+        "wayne_c_10": 2515.65018284,
+        "Sheet1__Lo": "Burton Int. Acad.",
+        "Sheet1__Pr": "457 / 466",
+        "Sheet1__Ad": "2001 MYRTLE",
+        "Sheet1__Cr": "btwn Rosa Parks & Wabash",
+        "Sheet1__Zi": "48208",
+        "Sheet1__Ob": 156,
+        "ORIG_FID": 495157
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1047059022005,
+          42.367935186286395
+        ]
+      },
+      "properties": {
+        "wayne_coun": 496958,
+        "wayne_co_1": "8450 LINWOOD",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48206",
+        "wayne_co_5": "10007428.008",
+        "wayne_co_6": 484.01612146,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 14202.9936523,
+        "wayne_c_10": 484.016121458,
+        "Sheet1__Lo": "New Bethel Bpt. Ch.",
+        "Sheet1__Pr": "437",
+        "Sheet1__Ad": "8450 LINWOOD",
+        "Sheet1__Cr": "N. of W. Grand Blvd",
+        "Sheet1__Zi": "48206",
+        "Sheet1__Ob": 153,
+        "ORIG_FID": 496957
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0289838157582,
+          42.340175779763
+        ]
+      },
+      "properties": {
+        "wayne_coun": 497008,
+        "wayne_co_1": "1961 E LAFAYETTE",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48207",
+        "wayne_co_5": "09000374-99",
+        "wayne_co_6": 1623.25546167,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 130555.277344,
+        "wayne_c_10": 1623.25546167,
+        "Sheet1__Lo": "St. Johns Pres. Ch.",
+        "Sheet1__Pr": "126 / 156",
+        "Sheet1__Ad": "1961 E LAFAYETTE",
+        "Sheet1__Cr": "W. of Chene",
+        "Sheet1__Zi": "48207",
+        "Sheet1__Ob": 45,
+        "ORIG_FID": 497007
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.13026012060708,
+          42.39031149220928
+        ]
+      },
+      "properties": {
+        "wayne_coun": 502336,
+        "wayne_co_1": "3350 W DAVISON",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48238",
+        "wayne_co_5": "12004485-7",
+        "wayne_co_6": 435.94413052,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 11867.4140625,
+        "wayne_c_10": 435.944130517,
+        "Sheet1__Lo": "Dexter Ave Bapt. Ctr.",
+        "Sheet1__Pr": "217 / 218",
+        "Sheet1__Ad": "3350 W DAVISON",
+        "Sheet1__Cr": "at Dexter",
+        "Sheet1__Zi": "48238",
+        "Sheet1__Ob": 85,
+        "ORIG_FID": 502335
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.12899651196932,
+          42.40604587190564
+        ]
+      },
+      "properties": {
+        "wayne_coun": 503350,
+        "wayne_co_1": "15531 LINWOOD",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48238",
+        "wayne_co_5": "12010908-15",
+        "wayne_co_6": 2113.27056574,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 220149.901367,
+        "wayne_c_10": 2113.27056574,
+        "Sheet1__Lo": "Thurgood Marshall",
+        "Sheet1__Pr": "212",
+        "Sheet1__Ad": "15531 LINWOOD",
+        "Sheet1__Cr": "at Lodge Fwy.",
+        "Sheet1__Zi": "48238",
+        "Sheet1__Ob": 82,
+        "ORIG_FID": 503349
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.09211056538153,
+          42.33228274415804
+        ]
+      },
+      "properties": {
+        "wayne_coun": 504893,
+        "wayne_co_1": "3016 24TH ST",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48208",
+        "wayne_co_5": "12008616.",
+        "wayne_co_6": 497.54893758,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 15311.315918,
+        "wayne_c_10": 497.548937576,
+        "Sheet1__Lo": "Zion Chapel of Ch.",
+        "Sheet1__Pr": "444 / 462",
+        "Sheet1__Ad": "3016 24TH ST",
+        "Sheet1__Cr": "N. of Michigan W. of Jeffries Fwy",
+        "Sheet1__Zi": "48216",
+        "Sheet1__Ob": 160,
+        "ORIG_FID": 504892
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01635355431944,
+          42.34353612770399
+        ]
+      },
+      "properties": {
+        "wayne_coun": 507575,
+        "wayne_co_1": "3200 E LAFAYETTE",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48207",
+        "wayne_co_5": "13000172-420",
+        "wayne_co_6": 6277.75742836,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 1422383.33423,
+        "wayne_c_10": 6277.75742836,
+        "Sheet1__Lo": "King High School",
+        "Sheet1__Pr": "129 / 496",
+        "Sheet1__Ad": "3200 E LAFAYETTE",
+        "Sheet1__Cr": "btwn Elmwood & Leib",
+        "Sheet1__Zi": "48207",
+        "Sheet1__Ob": 47,
+        "ORIG_FID": 507574
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01832993275572,
+          42.34477251896727
+        ]
+      },
+      "properties": {
+        "wayne_coun": 507649,
+        "wayne_co_1": "1000 BRADBY DRIVE",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48207",
+        "wayne_co_5": "13010632-726",
+        "wayne_co_6": 946.44349387,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 52250.609375,
+        "wayne_c_10": 946.443493873,
+        "Sheet1__Lo": "Calvary Baptist Church",
+        "Sheet1__Pr": "493",
+        "Sheet1__Ad": "1000 BRADBY DRIVE",
+        "Sheet1__Cr": "at McDougall",
+        "Sheet1__Zi": "48207",
+        "Sheet1__Ob": 165,
+        "ORIG_FID": 507648
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.02323881740911,
+          42.35500391159171
+        ]
+      },
+      "properties": {
+        "wayne_coun": 507688,
+        "wayne_co_1": "3360 CHARLEVOIX",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48207",
+        "wayne_co_5": "13001019.003L",
+        "wayne_co_6": 1101.61340994,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 73448.3239746,
+        "wayne_c_10": 1101.61340994,
+        "Sheet1__Lo": "Franklin Wright Center",
+        "Sheet1__Pr": "128",
+        "Sheet1__Ad": "3360 CHARLEVOIX",
+        "Sheet1__Cr": "N. of Vernor W. of Mt. Elliot",
+        "Sheet1__Zi": "48207",
+        "Sheet1__Ob": 46,
+        "ORIG_FID": 507687
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.05143454605884,
+          42.41351581601013
+        ]
+      },
+      "properties": {
+        "wayne_coun": 511397,
+        "wayne_co_1": "5001 CHARLES",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48212",
+        "wayne_co_5": "13006882.",
+        "wayne_co_6": 3715.32594405,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 745838.532227,
+        "wayne_c_10": 3715.32594405,
+        "Sheet1__Lo": "Lasky Rec Center",
+        "Sheet1__Pr": "92 / 94 / 95",
+        "Sheet1__Ad": "5001 CHARLES",
+        "Sheet1__Cr": "btwn Luce Ave. & Charles St.",
+        "Sheet1__Zi": "48212",
+        "Sheet1__Ob": 33,
+        "ORIG_FID": 511396
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.06542452480176,
+          42.432020912420455
+        ]
+      },
+      "properties": {
+        "wayne_coun": 513001,
+        "wayne_co_1": "3700 E SEVEN MILE",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48234",
+        "wayne_co_5": "13008319.",
+        "wayne_co_6": 3871.81659549,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 866615.084473,
+        "wayne_c_10": 3871.81659549,
+        "Sheet1__Lo": "Pershing School",
+        "Sheet1__Pr": "173 / 175/176/180",
+        "Sheet1__Ad": "3700 E SEVEN MILE",
+        "Sheet1__Cr": "at. E. Seven Mile",
+        "Sheet1__Zi": "48234",
+        "Sheet1__Ob": 69,
+        "ORIG_FID": 513000
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0711922995542,
+          42.429918600840374
+        ]
+      },
+      "properties": {
+        "wayne_coun": 513056,
+        "wayne_co_1": "18612 CONANT",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48200",
+        "wayne_co_5": "13025106-13",
+        "wayne_co_6": 680.99401344,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 24193.0200195,
+        "wayne_c_10": 680.994013437,
+        "Sheet1__Lo": "Conant Avenue United Methodist Church",
+        "Sheet1__Pr": "182/ 188",
+        "Sheet1__Ad": "18612 CONANT",
+        "Sheet1__Cr": "near E. Seven Mile",
+        "Sheet1__Zi": "48234",
+        "Sheet1__Ob": 71,
+        "ORIG_FID": 513055
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.05785299005817,
+          42.44405365498733
+        ]
+      },
+      "properties": {
+        "wayne_coun": 514918,
+        "wayne_co_1": "4444 E EIGHT MILE",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48234",
+        "wayne_co_5": "13009115-6",
+        "wayne_co_6": 8765.57213197,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 3919015.15869,
+        "wayne_c_10": 8765.57213197,
+        "Sheet1__Lo": "Farwell Rec Center",
+        "Sheet1__Pr": "61 / 193 / 194",
+        "Sheet1__Ad": "4444 E EIGHT MILE",
+        "Sheet1__Cr": "btwn Klinger & Ryan Rd.",
+        "Sheet1__Zi": "48234",
+        "Sheet1__Ob": 22,
+        "ORIG_FID": 514917
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.03145545492656,
+          42.36363236187174
+        ]
+      },
+      "properties": {
+        "wayne_coun": 515871,
+        "wayne_co_1": "3180 E CANFIELD",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48207",
+        "wayne_co_5": "13002320.",
+        "wayne_co_6": 305.40476828,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 5260.07495117,
+        "wayne_c_10": 305.404768278,
+        "Sheet1__Lo": "Holy Tabernacle Baptist Church",
+        "Sheet1__Pr": "140",
+        "Sheet1__Ad": "3180 E CANFIELD",
+        "Sheet1__Cr": "at McDougall",
+        "Sheet1__Zi": "48207",
+        "Sheet1__Ob": 54,
+        "ORIG_FID": 515870
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.05795519944114,
+          42.412295240751945
+        ]
+      },
+      "properties": {
+        "wayne_coun": 520412,
+        "wayne_co_1": "13200 CONANT",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48212",
+        "wayne_co_5": "13024945.001",
+        "wayne_co_6": 2272.89750101,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 302803.344238,
+        "wayne_c_10": 2272.89750101,
+        "Sheet1__Lo": "Frontier International Academy",
+        "Sheet1__Pr": "93 / 197",
+        "Sheet1__Ad": "13200 CONANT",
+        "Sheet1__Cr": "at Charles St.",
+        "Sheet1__Zi": "48212",
+        "Sheet1__Ob": 34,
+        "ORIG_FID": 520411
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.11828917386326,
+          42.35444484431614
+        ]
+      },
+      "properties": {
+        "wayne_coun": 524438,
+        "wayne_co_1": "4700 TIREMAN",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48204",
+        "wayne_co_5": "14001472-502",
+        "wayne_co_6": 3185.77366928,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 549771.084717,
+        "wayne_c_10": 3185.77366928,
+        "Sheet1__Lo": "Sampson Academy",
+        "Sheet1__Pr": "406 / 407 / 409 / 410 / 415",
+        "Sheet1__Ad": "4700 TIREMAN",
+        "Sheet1__Cr": "btwn Beechwood St. & Firwood St.",
+        "Sheet1__Zi": "48204",
+        "Sheet1__Ob": 140,
+        "ORIG_FID": 524437
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.12810436515247,
+          42.37530896865885
+        ]
+      },
+      "properties": {
+        "wayne_coun": 526023,
+        "wayne_co_1": "4242 COLLINGWOOD",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48204",
+        "wayne_co_5": "14007030.",
+        "wayne_co_6": 1836.35037401,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 179465.709473,
+        "wayne_c_10": 1836.35037401,
+        "Sheet1__Lo": "Boys & Girls Clubs ll",
+        "Sheet1__Pr": "430 / 446",
+        "Sheet1__Ad": "4242 COLLINGWOOD",
+        "Sheet1__Cr": "near Broadstreet",
+        "Sheet1__Zi": "48204",
+        "Sheet1__Ob": 151,
+        "ORIG_FID": 526022
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.12961736100624,
+          42.38729179308782
+        ]
+      },
+      "properties": {
+        "wayne_coun": 526957,
+        "wayne_co_1": "12837 DEXTER",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48238",
+        "wayne_co_5": "14006186-8",
+        "wayne_co_6": 406.0622411,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 10308.8566895,
+        "wayne_c_10": 406.062241103,
+        "Sheet1__Lo": "Greater New Jerus Ch.",
+        "Sheet1__Pr": "426",
+        "Sheet1__Ad": "12837 DEXTER",
+        "Sheet1__Cr": "S. of Davison",
+        "Sheet1__Zi": "48238",
+        "Sheet1__Ob": 149,
+        "ORIG_FID": 526956
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.12785147162909,
+          42.384657939638934
+        ]
+      },
+      "properties": {
+        "wayne_coun": 527723,
+        "wayne_co_1": "12521 DEXTER",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48238",
+        "wayne_co_5": "14006204-12",
+        "wayne_co_6": 600.00887796,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 19987.8781738,
+        "wayne_c_10": 600.008877955,
+        "Sheet1__Lo": "Grace Temple Church of God In Christ",
+        "Sheet1__Pr": "219 / 434",
+        "Sheet1__Ad": "12521 DEXTER",
+        "Sheet1__Cr": "near Davison Fwy",
+        "Sheet1__Zi": "48206",
+        "Sheet1__Ob": 86,
+        "ORIG_FID": 527722
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.11402067251649,
+          42.34862409883278
+        ]
+      },
+      "properties": {
+        "wayne_coun": 530672,
+        "wayne_co_1": "6000 STANFORD",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "",
+        "wayne_co_5": "14011558-70",
+        "wayne_co_6": 1108.24818611,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 46799.0644531,
+        "wayne_c_10": 1108.24818611,
+        "Sheet1__Lo": "St. Stephen AME Ch.",
+        "Sheet1__Pr": "452",
+        "Sheet1__Ad": "6000 STANFORD",
+        "Sheet1__Cr": "W. of Grand River N. of Tireman",
+        "Sheet1__Zi": "48210",
+        "Sheet1__Ob": 155,
+        "ORIG_FID": 530671
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.02494430933683,
+          42.42645802455838
+        ]
+      },
+      "properties": {
+        "wayne_coun": 535346,
+        "wayne_co_1": "17945 VAN DYKE",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48234",
+        "wayne_co_5": "15005394-6",
+        "wayne_co_6": 1328.29818949,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 67770.4018555,
+        "wayne_c_10": 1328.29818949,
+        "Sheet1__Lo": "Perfecting Church",
+        "Sheet1__Pr": "62",
+        "Sheet1__Ad": "17945 VAN DYKE",
+        "Sheet1__Cr": "at Van Dyke",
+        "Sheet1__Zi": "48234",
+        "Sheet1__Ob": 23,
+        "ORIG_FID": 535345
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.02979722158351,
+          42.43806146250584
+        ]
+      },
+      "properties": {
+        "wayne_coun": 535963,
+        "wayne_co_1": "19411 CLIFF",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48234",
+        "wayne_co_5": "15008299.",
+        "wayne_co_6": 1941.75285521,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 234314.167969,
+        "wayne_c_10": 1941.75285521,
+        "Sheet1__Lo": "Marion Law Academy",
+        "Sheet1__Pr": "86",
+        "Sheet1__Ad": "19411 CLIFF",
+        "Sheet1__Cr": "btwn E. Outer Drive & E. Seven Mile",
+        "Sheet1__Zi": "48234",
+        "Sheet1__Ob": 29,
+        "ORIG_FID": 535962
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.09842849458032,
+          42.32040850590694
+        ]
+      },
+      "properties": {
+        "wayne_coun": 541789,
+        "wayne_co_1": "1752 LANSING",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48209",
+        "wayne_co_5": "16009748.",
+        "wayne_co_6": 1477.16983752,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 123722.054443,
+        "wayne_c_10": 1477.16983752,
+        "Sheet1__Lo": "Clippert Academy",
+        "Sheet1__Pr": "470 / 471 / 480",
+        "Sheet1__Ad": "1752 LANSING",
+        "Sheet1__Cr": "btwn Clark Ave. & Junction",
+        "Sheet1__Zi": "48209",
+        "Sheet1__Ob": 161,
+        "ORIG_FID": 541788
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.10959938589099,
+          42.32740591867077
+        ]
+      },
+      "properties": {
+        "wayne_coun": 542391,
+        "wayne_co_1": "5680 KONKEL",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48210",
+        "wayne_co_5": "16013246.001",
+        "wayne_co_6": 1422.89642203,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 114074.433838,
+        "wayne_c_10": 1422.89642203,
+        "Sheet1__Lo": "Academy of the Americas 1",
+        "Sheet1__Pr": "425 / 481",
+        "Sheet1__Ad": "5680 KONKEL",
+        "Sheet1__Cr": "near Davison Fwy.",
+        "Sheet1__Zi": "48210",
+        "Sheet1__Ob": 148,
+        "ORIG_FID": 542390
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1690038108669,
+          42.42309040480148
+        ]
+      },
+      "properties": {
+        "wayne_coun": 549435,
+        "wayne_co_1": "18100 MEYERS",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48235",
+        "wayne_co_5": "16046190-1",
+        "wayne_co_6": 2514.1181451,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 386556.681152,
+        "wayne_c_10": 2514.1181451,
+        "Sheet1__Lo": "Northwest Act Center",
+        "Sheet1__Pr": "224 / 236 / 244 / 318 / 380",
+        "Sheet1__Ad": "18100 MEYERS",
+        "Sheet1__Cr": "at Curtis",
+        "Sheet1__Zi": "48235",
+        "Sheet1__Ob": 89,
+        "ORIG_FID": 549434
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.15980441161784,
+          42.41248735877218
+        ]
+      },
+      "properties": {
+        "wayne_coun": 549953,
+        "wayne_co_1": "16520 WYOMING",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48221",
+        "wayne_co_5": "16037569-78",
+        "wayne_co_6": 606.11545796,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 20303.5292969,
+        "wayne_c_10": 606.115457957,
+        "Sheet1__Lo": "House of Prayer",
+        "Sheet1__Pr": "216 / 390",
+        "Sheet1__Ad": "16520 WYOMING",
+        "Sheet1__Cr": "E. of Livernois S. of Fenkell",
+        "Sheet1__Zi": "48238",
+        "Sheet1__Ob": 84,
+        "ORIG_FID": 549952
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.16010365113135,
+          42.41982169266846
+        ]
+      },
+      "properties": {
+        "wayne_coun": 550629,
+        "wayne_co_1": "17392 WYOMING",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48221",
+        "wayne_co_5": "16037630-41",
+        "wayne_co_6": 660.10469183,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 21599.8208008,
+        "wayne_c_10": 660.104691834,
+        "Sheet1__Lo": "Unity Temple of Faith",
+        "Sheet1__Pr": "240 / 241 / 242",
+        "Sheet1__Ad": "17392 WYOMING",
+        "Sheet1__Cr": "N. of W. McNichols",
+        "Sheet1__Zi": "48221",
+        "Sheet1__Ob": 94,
+        "ORIG_FID": 550628
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.16251703694938,
+          42.437814890275426
+        ]
+      },
+      "properties": {
+        "wayne_coun": 551666,
+        "wayne_co_1": "19901 WYOMING",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48221",
+        "wayne_co_5": "16038032.",
+        "wayne_co_6": 2813.18362601,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 450913.583496,
+        "wayne_c_10": 2813.18362601,
+        "Sheet1__Lo": "Bates Academy",
+        "Sheet1__Pr": "222/ 223 / 243 / 257",
+        "Sheet1__Ad": "19901 WYOMING",
+        "Sheet1__Cr": "near W. Outer Drive",
+        "Sheet1__Zi": "48221",
+        "Sheet1__Ob": 88,
+        "ORIG_FID": 551665
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.14331521475944,
+          42.43787174986375
+        ]
+      },
+      "properties": {
+        "wayne_coun": 552083,
+        "wayne_co_1": "19811 STOEPEL",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48221",
+        "wayne_co_5": "16019332.",
+        "wayne_co_6": 1690.29510668,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 145310.08252,
+        "wayne_c_10": 1690.29510668,
+        "Sheet1__Lo": "Pasteur School",
+        "Sheet1__Pr": "199 / 201",
+        "Sheet1__Ad": "19811 STOEPEL",
+        "Sheet1__Cr": "W. of Livernois N. of W. Seven Mile",
+        "Sheet1__Zi": "48221",
+        "Sheet1__Ob": 74,
+        "ORIG_FID": 552082
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.13052002726259,
+          42.35377842627782
+        ]
+      },
+      "properties": {
+        "wayne_coun": 556002,
+        "wayne_co_1": "7748 EPWORTH",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48204",
+        "wayne_co_5": "16014805.",
+        "wayne_co_6": 410.18208317,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 7860.8894043,
+        "wayne_c_10": 410.182083171,
+        "Sheet1__Lo": "Meditation MBC.",
+        "Sheet1__Pr": "418",
+        "Sheet1__Ad": "7748 EPWORTH",
+        "Sheet1__Cr": "N. of Tireman E. of Livernois",
+        "Sheet1__Zi": "48204",
+        "Sheet1__Ob": 143,
+        "ORIG_FID": 556001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.14436640238169,
+          42.352195372280654
+        ]
+      },
+      "properties": {
+        "wayne_coun": 560535,
+        "wayne_co_1": "7500 TIREMAN",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48204",
+        "wayne_co_5": "16002047-53",
+        "wayne_co_6": 602.34534048,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 20106.2573242,
+        "wayne_c_10": 602.345340484,
+        "Sheet1__Lo": "Unity Baptist Church",
+        "Sheet1__Pr": "420 / 421 / 422",
+        "Sheet1__Ad": "7500 TIREMAN",
+        "Sheet1__Cr": "W. of Livernois",
+        "Sheet1__Zi": "48204",
+        "Sheet1__Ob": 145,
+        "ORIG_FID": 560534
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.15246360868849,
+          42.43169210378473
+        ]
+      },
+      "properties": {
+        "wayne_coun": 563436,
+        "wayne_co_1": "8110 W SEVEN MILE",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48221",
+        "wayne_co_5": "16008785-90",
+        "wayne_co_6": 714.08292943,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 29497.9052734,
+        "wayne_c_10": 714.08292943,
+        "Sheet1__Lo": "Messiah Baptist Ch.",
+        "Sheet1__Pr": "256",
+        "Sheet1__Ad": "8110 W SEVEN MILE",
+        "Sheet1__Cr": "W. of Livernois",
+        "Sheet1__Zi": "48221",
+        "Sheet1__Ob": 98,
+        "ORIG_FID": 563435
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.15607179744592,
+          42.43769699961997
+        ]
+      },
+      "properties": {
+        "wayne_coun": 565166,
+        "wayne_co_1": "19801 CHERRYLAWN",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48221",
+        "wayne_co_5": "16033127-34",
+        "wayne_co_6": 1432.5240114,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 77353.1401367,
+        "wayne_c_10": 1432.5240114,
+        "Sheet1__Lo": "Oak Grove AME Church",
+        "Sheet1__Pr": "225 / 226",
+        "Sheet1__Ad": "19801 CHERRYLAWN",
+        "Sheet1__Cr": "at Pembroke",
+        "Sheet1__Zi": "48221",
+        "Sheet1__Ob": 90,
+        "ORIG_FID": 565165
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.15536591089852,
+          42.3813781226003
+        ]
+      },
+      "properties": {
+        "wayne_coun": 565914,
+        "wayne_co_1": "8646 FULLERTON",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48238",
+        "wayne_co_5": "16033516-26",
+        "wayne_co_6": 3496.71791574,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 412899.551514,
+        "wayne_c_10": 3496.71791574,
+        "Sheet1__Lo": "Noble School",
+        "Sheet1__Pr": "60 /395 / 398 / 400",
+        "Sheet1__Ad": "8646 FULLERTON",
+        "Sheet1__Cr": "E. of Meyers N. of Plymouth",
+        "Sheet1__Zi": "48238",
+        "Sheet1__Ob": 137,
+        "ORIG_FID": 565913
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.99287114543755,
+          42.366337808595716
+        ]
+      },
+      "properties": {
+        "wayne_coun": 571586,
+        "wayne_co_1": "8940 CHARLEVOIX",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48214",
+        "wayne_co_5": "19000475-7",
+        "wayne_co_6": 410.01065819,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 10351.388916,
+        "wayne_c_10": 410.010658189,
+        "Sheet1__Lo": "New Canaan MBC",
+        "Sheet1__Pr": "1",
+        "Sheet1__Ad": "8940 CHARLEVOIX",
+        "Sheet1__Cr": "S. of Mack E. of Van Dyke",
+        "Sheet1__Zi": "48214",
+        "Sheet1__Ob": 1,
+        "ORIG_FID": 571585
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01454921992433,
+          42.39534590257235
+        ]
+      },
+      "properties": {
+        "wayne_coun": 573213,
+        "wayne_co_1": "8821 GEORGIA",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48213",
+        "wayne_co_5": "19009933.",
+        "wayne_co_6": 1980.88875632,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 166753.483887,
+        "wayne_c_10": 1980.88875632,
+        "Sheet1__Lo": "Holmes, A.L. Elementary School",
+        "Sheet1__Pr": "90 / 103 / 107",
+        "Sheet1__Ad": "8821 GEORGIA",
+        "Sheet1__Cr": "near Erwin St.",
+        "Sheet1__Zi": "48213",
+        "Sheet1__Ob": 31,
+        "ORIG_FID": 573212
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.02085523755291,
+          42.43921737923306
+        ]
+      },
+      "properties": {
+        "wayne_coun": 577102,
+        "wayne_co_1": "8223 E LANTZ",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48234",
+        "wayne_co_5": "17005578-9",
+        "wayne_co_6": 1809.26557656,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 155968.365723,
+        "wayne_c_10": 1809.26557656,
+        "Sheet1__Lo": "Our Lady Of Heaven",
+        "Sheet1__Pr": "64/  65 / 88",
+        "Sheet1__Ad": "8223 E LANTZ",
+        "Sheet1__Cr": "E. of Van Dyke N. of E. Seven Mile",
+        "Sheet1__Zi": "48234",
+        "Sheet1__Ob": 24,
+        "ORIG_FID": 577101
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.00130847061267,
+          42.3685235430034
+        ]
+      },
+      "properties": {
+        "wayne_coun": 578299,
+        "wayne_co_1": "3544 IROQUOIS",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48214",
+        "wayne_co_5": "17007056.",
+        "wayne_co_6": 678.55899512,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 28770.3759766,
+        "wayne_c_10": 678.558995119,
+        "Sheet1__Lo": "Greater Christ Ch.",
+        "Sheet1__Pr": "122",
+        "Sheet1__Ad": "3544 IROQUOIS",
+        "Sheet1__Cr": "at Mack",
+        "Sheet1__Zi": "48214",
+        "Sheet1__Ob": 41,
+        "ORIG_FID": 578298
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.98461297905764,
+          42.354444699822324
+        ]
+      },
+      "properties": {
+        "wayne_coun": 579132,
+        "wayne_co_1": "8900 E JEFFERSON",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48214",
+        "wayne_co_5": "19000016.002L",
+        "wayne_co_6": 2019.51318575,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 208155.276611,
+        "wayne_c_10": 2019.51318575,
+        "Sheet1__Lo": "River House Apts",
+        "Sheet1__Pr": "135",
+        "Sheet1__Ad": "8900 E JEFFERSON",
+        "Sheet1__Cr": "E. of Van Dyke",
+        "Sheet1__Zi": "48214",
+        "Sheet1__Ob": 49,
+        "ORIG_FID": 579131
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.00585727849243,
+          42.36736501765548
+        ]
+      },
+      "properties": {
+        "wayne_coun": 579889,
+        "wayne_co_1": "8015 MACK",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48214",
+        "wayne_co_5": "17000358-60",
+        "wayne_co_6": 637.77498134,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 23665.7478027,
+        "wayne_c_10": 637.774981335,
+        "Sheet1__Lo": "Mt. Zion Baptist Ch.",
+        "Sheet1__Pr": "120",
+        "Sheet1__Ad": "8015 MACK",
+        "Sheet1__Cr": "at Mack",
+        "Sheet1__Zi": "48214",
+        "Sheet1__Ob": 40,
+        "ORIG_FID": 579888
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.00140781330018,
+          42.352392500403326
+        ]
+      },
+      "properties": {
+        "wayne_coun": 580789,
+        "wayne_co_1": "893 TOWNSEND",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48214",
+        "wayne_co_5": "17012535-54",
+        "wayne_co_6": 1699.45050233,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 138559.150391,
+        "wayne_c_10": 1699.45050233,
+        "Sheet1__Lo": "Moses Field School",
+        "Sheet1__Pr": "130 / 133",
+        "Sheet1__Ad": "893 TOWNSEND",
+        "Sheet1__Cr": "btwn Agnes & Lafayette",
+        "Sheet1__Zi": "48214",
+        "Sheet1__Ob": 48,
+        "ORIG_FID": 580788
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.01311429941877,
+          42.43762525810943
+        ]
+      },
+      "properties": {
+        "wayne_coun": 581548,
+        "wayne_co_1": "5251 E OUTER DRIVE",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48234",
+        "wayne_co_5": "17005144.",
+        "wayne_co_6": 2908.81843247,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 290370.318359,
+        "wayne_c_10": 2908.81843247,
+        "Sheet1__Lo": "Galilee MBC",
+        "Sheet1__Pr": "71 / 72 / 73",
+        "Sheet1__Ad": "5251 E OUTER DRIVE",
+        "Sheet1__Cr": "N. of E Seven Mile",
+        "Sheet1__Zi": "48234",
+        "Sheet1__Ob": 26,
+        "ORIG_FID": 581547
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.13376383430149,
+          42.33858583564377
+        ]
+      },
+      "properties": {
+        "wayne_coun": 585761,
+        "wayne_co_1": "6830 MCGRAW",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48210",
+        "wayne_co_5": "18003101.",
+        "wayne_co_6": 416.30393278,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 10812.2307129,
+        "wayne_c_10": 416.303932777,
+        "Sheet1__Lo": "Fire Station 22",
+        "Sheet1__Pr": "424",
+        "Sheet1__Ad": "6830 MCGRAW",
+        "Sheet1__Cr": "W. of Livernois",
+        "Sheet1__Zi": "48210",
+        "Sheet1__Ob": 147,
+        "ORIG_FID": 585760
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.14933790313292,
+          42.35211685057699
+        ]
+      },
+      "properties": {
+        "wayne_coun": 587614,
+        "wayne_co_1": "8130 TIREMAN",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48204",
+        "wayne_co_5": "18004954-58",
+        "wayne_co_6": 401.60703544,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 10078.0778809,
+        "wayne_c_10": 401.60703544,
+        "Sheet1__Lo": "True Love Baptist Church",
+        "Sheet1__Pr": "423",
+        "Sheet1__Ad": "8130 TIREMAN",
+        "Sheet1__Cr": "near Livernois",
+        "Sheet1__Zi": "48204",
+        "Sheet1__Ob": 146,
+        "ORIG_FID": 587613
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.11635558109161,
+          42.30952503960628
+        ]
+      },
+      "properties": {
+        "wayne_coun": 589871,
+        "wayne_co_1": "1551 BEARD",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48209",
+        "wayne_co_5": "18008571.",
+        "wayne_co_6": 2331.16634476,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 281662.474609,
+        "wayne_c_10": 2331.16634476,
+        "Sheet1__Lo": "Clemente, Roberto Academy",
+        "Sheet1__Pr": "472 / 473 / 474",
+        "Sheet1__Ad": "1551 BEARD",
+        "Sheet1__Cr": "at Chatfield",
+        "Sheet1__Zi": "48209",
+        "Sheet1__Ob": 162,
+        "ORIG_FID": 589870
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.15505121652225,
+          42.36463255667128
+        ]
+      },
+      "properties": {
+        "wayne_coun": 594681,
+        "wayne_co_1": "4950 OAKMAN BLVD",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48204",
+        "wayne_co_5": "18016362-8",
+        "wayne_co_6": 1369.71430573,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 65244.2685547,
+        "wayne_c_10": 1369.71430573,
+        "Sheet1__Lo": "St. John Ch.",
+        "Sheet1__Pr": "405 / 411 / 414",
+        "Sheet1__Ad": "4950 OAKMAN BLVD",
+        "Sheet1__Cr": "S. of Chicago",
+        "Sheet1__Zi": "48204",
+        "Sheet1__Ob": 139,
+        "ORIG_FID": 594680
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.00638261128366,
+          42.38501823704991
+        ]
+      },
+      "properties": {
+        "wayne_coun": 601942,
+        "wayne_co_1": "5715 HOLCOMB",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "",
+        "wayne_co_5": "19008586-9",
+        "wayne_co_6": 576.29824853,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 19454.6853027,
+        "wayne_c_10": 576.298248529,
+        "Sheet1__Lo": "Bethel Bapt. Ch. East",
+        "Sheet1__Pr": "111 / 116",
+        "Sheet1__Ad": "5715 HOLCOMB",
+        "Sheet1__Cr": "E. of Van Dyke S. of Gratiot",
+        "Sheet1__Zi": "48213",
+        "Sheet1__Ob": 37,
+        "ORIG_FID": 601941
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.16354941049401,
+          42.26712522387884
+        ]
+      },
+      "properties": {
+        "wayne_coun": 611057,
+        "wayne_co_1": "3032 S FORT",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48217",
+        "wayne_co_5": "20015206-15",
+        "wayne_co_6": 628.16893758,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 22622.0744629,
+        "wayne_c_10": 628.168937577,
+        "Sheet1__Lo": "S Westrn Ch Of God",
+        "Sheet1__Pr": "482 / 483",
+        "Sheet1__Ad": "3032 S FORT",
+        "Sheet1__Cr": "Fort St. at Francis",
+        "Sheet1__Zi": "48217",
+        "Sheet1__Ob": 163,
+        "ORIG_FID": 611056
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.16261550749337,
+          42.2698485887033
+        ]
+      },
+      "properties": {
+        "wayne_coun": 613231,
+        "wayne_co_1": "12800 VISGER",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48217",
+        "wayne_co_5": "20015238.",
+        "wayne_co_6": 2796.98547529,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 331162.286621,
+        "wayne_c_10": 2796.98547529,
+        "Sheet1__Lo": "Mark Twain",
+        "Sheet1__Pr": "484 / 485",
+        "Sheet1__Ad": "12800 VISGER",
+        "Sheet1__Cr": "at Fort St.",
+        "Sheet1__Zi": "48217",
+        "Sheet1__Ob": 164,
+        "ORIG_FID": 613230
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.96312262617884,
+          42.39891873763568
+        ]
+      },
+      "properties": {
+        "wayne_coun": 618793,
+        "wayne_co_1": "14223 SOUTHAMPTON",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48213",
+        "wayne_co_5": "21053950.",
+        "wayne_co_6": 1573.95791406,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 128738.53418,
+        "wayne_c_10": 1573.95791406,
+        "Sheet1__Lo": "Hamilton School",
+        "Sheet1__Pr": "55",
+        "Sheet1__Ad": "14223 SOUTHAMPTON",
+        "Sheet1__Cr": "N. of Warren",
+        "Sheet1__Zi": "48213",
+        "Sheet1__Ob": 21,
+        "ORIG_FID": 618792
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.95638699298836,
+          42.3969647114416
+        ]
+      },
+      "properties": {
+        "wayne_coun": 618898,
+        "wayne_co_1": "5029 MANISTIQUE",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48224",
+        "wayne_co_5": "21061481.",
+        "wayne_co_6": 469.68762606,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 12225.1538086,
+        "wayne_c_10": 469.68762606,
+        "Sheet1__Lo": "Fire Station 52",
+        "Sheet1__Pr": "14",
+        "Sheet1__Ad": "5029 MANISTIQUE",
+        "Sheet1__Cr": "E. of Conner at Warren",
+        "Sheet1__Zi": "48224",
+        "Sheet1__Ob": 7,
+        "ORIG_FID": 618897
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.96382449720589,
+          42.42867165502056
+        ]
+      },
+      "properties": {
+        "wayne_coun": 632863,
+        "wayne_co_1": "18025 BROCK",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48205",
+        "wayne_co_5": "21017356.",
+        "wayne_co_6": 1510.38399929,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 134533.897949,
+        "wayne_c_10": 1510.38399929,
+        "Sheet1__Lo": "Brewer Academy",
+        "Sheet1__Pr": "50 / 53 / 66",
+        "Sheet1__Ad": "18025 BROCK",
+        "Sheet1__Cr": "S. of E. Seven Mile W. of Kelly",
+        "Sheet1__Zi": "48205",
+        "Sheet1__Ob": 20,
+        "ORIG_FID": 632862
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.00280803542024,
+          42.432489892636724
+        ]
+      },
+      "properties": {
+        "wayne_coun": 633550,
+        "wayne_co_1": "12026 E SEVEN MILE",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48205",
+        "wayne_co_5": "21020928.",
+        "wayne_co_6": 4333.71801186,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 1020416.17969,
+        "wayne_c_10": 4333.71801186,
+        "Sheet1__Lo": "Osborn High School",
+        "Sheet1__Pr": "68 / 70 / 75 / 491",
+        "Sheet1__Ad": "12026 E SEVEN MILE",
+        "Sheet1__Cr": "at Hoover",
+        "Sheet1__Zi": "48205",
+        "Sheet1__Ob": 25,
+        "ORIG_FID": 633549
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.97023863470139,
+          42.44769516214109
+        ]
+      },
+      "properties": {
+        "wayne_coun": 638579,
+        "wayne_co_1": "15325 GRATIOT",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48205",
+        "wayne_co_5": "21029211.",
+        "wayne_co_6": 1098.75986902,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 72309.2241211,
+        "wayne_c_10": 1098.75986902,
+        "Sheet1__Lo": "Greater St Paul",
+        "Sheet1__Pr": "79 / 81",
+        "Sheet1__Ad": "15325 GRATIOT",
+        "Sheet1__Cr": "S. of E. Eight Mile",
+        "Sheet1__Zi": "48205",
+        "Sheet1__Ob": 28,
+        "ORIG_FID": 638578
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.97006373040252,
+          42.4488962378443
+        ]
+      },
+      "properties": {
+        "wayne_coun": 638588,
+        "wayne_co_1": "15325 GRATIOT",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48205",
+        "wayne_co_5": "21029211.",
+        "wayne_co_6": 1317.51774131,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 89381.565918,
+        "wayne_c_10": 1317.51774131,
+        "Sheet1__Lo": "Greater St Paul",
+        "Sheet1__Pr": "79 / 81",
+        "Sheet1__Ad": "15325 GRATIOT",
+        "Sheet1__Cr": "S. of E. Eight Mile",
+        "Sheet1__Zi": "48205",
+        "Sheet1__Ob": 28,
+        "ORIG_FID": 638587
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.99685663500182,
+          42.38340682951038
+        ]
+      },
+      "properties": {
+        "wayne_coun": 644375,
+        "wayne_co_1": "10125 E WARREN",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48213",
+        "wayne_co_5": "19005086-9",
+        "wayne_co_6": 1927.9633374,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 177649.372314,
+        "wayne_c_10": 1927.9633374,
+        "Sheet1__Lo": "Burns 7th Day Adven Ch.",
+        "Sheet1__Pr": "115 / 121",
+        "Sheet1__Ad": "10125 E WARREN",
+        "Sheet1__Cr": "at Cadillac",
+        "Sheet1__Zi": "48214",
+        "Sheet1__Ob": 39,
+        "ORIG_FID": 644374
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9819643469562,
+          42.40090193224764
+        ]
+      },
+      "properties": {
+        "wayne_coun": 648572,
+        "wayne_co_1": "12233 EVANSTON",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48213",
+        "wayne_co_5": "21005164.",
+        "wayne_co_6": 1047.50317921,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 66658.8818359,
+        "wayne_c_10": 1047.50317921,
+        "Sheet1__Lo": "Faith Clinic COGIC",
+        "Sheet1__Pr": "10 / 56",
+        "Sheet1__Ad": "12233 EVANSTON",
+        "Sheet1__Cr": "E. of Conner N. of Ford Fwy",
+        "Sheet1__Zi": "48213",
+        "Sheet1__Ob": 4,
+        "ORIG_FID": 648571
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.94781356486895,
+          42.36346580223063
+        ]
+      },
+      "properties": {
+        "wayne_coun": 649287,
+        "wayne_co_1": "449 LENOX",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48215",
+        "wayne_co_5": "21050253-67",
+        "wayne_co_6": 1905.45670162,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 213334.686279,
+        "wayne_c_10": 1905.45670162,
+        "Sheet1__Lo": "Carstens Academy of Aquatic Science at Remus",
+        "Sheet1__Pr": "5 / 6 / 7 / 8 / 9",
+        "Sheet1__Ad": "449 LENOX",
+        "Sheet1__Cr": "S. of Jefferson E. Conner",
+        "Sheet1__Zi": "48215",
+        "Sheet1__Ob": 3,
+        "ORIG_FID": 649286
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.97225598439134,
+          42.41618652690013
+        ]
+      },
+      "properties": {
+        "wayne_coun": 652641,
+        "wayne_co_1": "11001 CHALMERS",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "",
+        "wayne_co_5": "21055812-20",
+        "wayne_co_6": 661.2101592,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 23049.331543,
+        "wayne_c_10": 661.2101592,
+        "Sheet1__Lo": "Jesus Tabernacle Ministry",
+        "Sheet1__Pr": "47",
+        "Sheet1__Ad": "11001 CHALMERS",
+        "Sheet1__Cr": "N. of Outer Drive",
+        "Sheet1__Zi": "48213",
+        "Sheet1__Ob": 19,
+        "ORIG_FID": 652640
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.95805990960127,
+          42.42516003376933
+        ]
+      },
+      "properties": {
+        "wayne_coun": 653857,
+        "wayne_co_1": "12780 KELLY RD",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48224",
+        "wayne_co_5": "21056882.",
+        "wayne_co_6": 3445.43967617,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 741576.701172,
+        "wayne_c_10": 3445.43967617,
+        "Sheet1__Lo": "Denby High School",
+        "Sheet1__Pr": "35 / 38 / 39 / 502",
+        "Sheet1__Ad": "12780 KELLY RD",
+        "Sheet1__Cr": "at Whittier",
+        "Sheet1__Zi": "48224",
+        "Sheet1__Ob": 13,
+        "ORIG_FID": 653856
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.95475247456335,
+          42.41731884875245
+        ]
+      },
+      "properties": {
+        "wayne_coun": 654577,
+        "wayne_co_1": "10801 WHITTIER",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48224",
+        "wayne_co_5": "21072530.",
+        "wayne_co_6": 348.8365548,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 7598.07666016,
+        "wayne_c_10": 348.836554796,
+        "Sheet1__Lo": "Fire Station 58",
+        "Sheet1__Pr": "43",
+        "Sheet1__Ad": "10801 WHITTIER",
+        "Sheet1__Cr": "N. of Ford Fwy.",
+        "Sheet1__Zi": "48224",
+        "Sheet1__Ob": 16,
+        "ORIG_FID": 654576
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.95690730678581,
+          42.415023078204
+        ]
+      },
+      "properties": {
+        "wayne_coun": 658217,
+        "wayne_co_1": "10601 LAKEPOINTE",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48224",
+        "wayne_co_5": "21065001.",
+        "wayne_co_6": 2338.10653621,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 254434.556152,
+        "wayne_c_10": 2338.10653621,
+        "Sheet1__Lo": "Wayne School",
+        "Sheet1__Pr": "41 / 52",
+        "Sheet1__Ad": "10601 LAKEPOINTE",
+        "Sheet1__Cr": "N. of Ford Fwy.",
+        "Sheet1__Zi": "48224",
+        "Sheet1__Ob": 15,
+        "ORIG_FID": 658216
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.94534314098904,
+          42.42752885050202
+        ]
+      },
+      "properties": {
+        "wayne_coun": 658803,
+        "wayne_co_1": "11724 CASINO",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48224",
+        "wayne_co_5": "21064877.",
+        "wayne_co_6": 1737.76555734,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 161889.538086,
+        "wayne_c_10": 1737.76555734,
+        "Sheet1__Lo": "Carleton Elementary School",
+        "Sheet1__Pr": "40",
+        "Sheet1__Ad": "11724 CASINO",
+        "Sheet1__Cr": "btwn Morang & Moross Rd.",
+        "Sheet1__Zi": "48224",
+        "Sheet1__Ob": 14,
+        "ORIG_FID": 658802
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.94873742925546,
+          42.40580674353491
+        ]
+      },
+      "properties": {
+        "wayne_coun": 661486,
+        "wayne_co_1": "11475 E OUTER DRIVE",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48224",
+        "wayne_co_5": "21080561.",
+        "wayne_co_6": 871.94772033,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 47448.6586914,
+        "wayne_c_10": 871.947720331,
+        "Sheet1__Lo": "Bethany Lutheran Church",
+        "Sheet1__Pr": "26 / 29 / 32 / 33 /36",
+        "Sheet1__Ad": "11475 E OUTER DRIVE",
+        "Sheet1__Cr": "btwn Chalmers & Berkshire",
+        "Sheet1__Zi": "48224",
+        "Sheet1__Ob": 11,
+        "ORIG_FID": 661485
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.94787809991011,
+          42.40446087530418
+        ]
+      },
+      "properties": {
+        "wayne_coun": 661489,
+        "wayne_co_1": "11530 E OUTER DRIVE",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48224",
+        "wayne_co_5": "21069000.",
+        "wayne_co_6": 2253.85225715,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 317342.752441,
+        "wayne_c_10": 2253.85225715,
+        "Sheet1__Lo": "Ronald Brown Academy",
+        "Sheet1__Pr": "11 / 51",
+        "Sheet1__Ad": "11530 E OUTER DRIVE",
+        "Sheet1__Cr": "S. of I-94 W. Cadieux",
+        "Sheet1__Zi": "48224",
+        "Sheet1__Ob": 5,
+        "ORIG_FID": 661488
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.94145601790844,
+          42.3946507078724
+        ]
+      },
+      "properties": {
+        "wayne_coun": 661960,
+        "wayne_co_1": "15755 BREMEN",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48224",
+        "wayne_co_5": "21069070.",
+        "wayne_co_6": 2322.5734767,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 336788.962891,
+        "wayne_c_10": 2322.5734767,
+        "Sheet1__Lo": "Clark School",
+        "Sheet1__Pr": "12 / 23",
+        "Sheet1__Ad": "15755 BREMEN",
+        "Sheet1__Cr": "S. of Warren E. of Chalmers",
+        "Sheet1__Zi": "48224",
+        "Sheet1__Ob": 6,
+        "ORIG_FID": 661959
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.92886473376714,
+          42.40868612220624
+        ]
+      },
+      "properties": {
+        "wayne_coun": 665359,
+        "wayne_co_1": "5020 CADIEUX",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48224",
+        "wayne_co_5": "21075785-93",
+        "wayne_co_6": 6577.61612588,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 1322891.11719,
+        "wayne_c_10": 6577.61612588,
+        "Sheet1__Lo": "East English Village Prep Academy",
+        "Sheet1__Pr": "19 / 22 / 34",
+        "Sheet1__Ad": "5020 CADIEUX",
+        "Sheet1__Cr": "near E. Warren Ave.",
+        "Sheet1__Zi": "48224",
+        "Sheet1__Ob": 10,
+        "ORIG_FID": 665358
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9251006464117,
+          42.42215716972268
+        ]
+      },
+      "properties": {
+        "wayne_coun": 666875,
+        "wayne_co_1": "21230 MOROSS",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48236",
+        "wayne_co_5": "21079722-32",
+        "wayne_co_6": 1567.66103863,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 116501.095215,
+        "wayne_c_10": 1567.66103863,
+        "Sheet1__Lo": "Love Rising Lutheran Ch.",
+        "Sheet1__Pr": "18 / 20",
+        "Sheet1__Ad": "21230 MOROSS",
+        "Sheet1__Cr": "S. of Ford Fwy.",
+        "Sheet1__Zi": "48236",
+        "Sheet1__Ob": 9,
+        "ORIG_FID": 666874
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.17201391250859,
+          42.358891870017935
+        ]
+      },
+      "properties": {
+        "wayne_coun": 674451,
+        "wayne_co_1": "13000 JOY RD",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48228",
+        "wayne_co_5": "22003221-32",
+        "wayne_co_6": 720.47215481,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 26004.3762207,
+        "wayne_c_10": 720.472154808,
+        "Sheet1__Lo": "St Mark COGIC",
+        "Sheet1__Pr": "413",
+        "Sheet1__Ad": "13000 JOY RD",
+        "Sheet1__Cr": "near Meyers",
+        "Sheet1__Zi": "48228",
+        "Sheet1__Ob": 141,
+        "ORIG_FID": 674450
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.24738511749591,
+          42.39976345822718
+        ]
+      },
+      "properties": {
+        "wayne_coun": 683903,
+        "wayne_co_1": "15101 BURT RD",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48223",
+        "wayne_co_5": "22107955-59",
+        "wayne_co_6": 565.41626488,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 19166.4658203,
+        "wayne_c_10": 565.416264875,
+        "Sheet1__Lo": "Mt. Vernon Bpt. Ch.",
+        "Sheet1__Pr": "306",
+        "Sheet1__Ad": "15101 BURT RD",
+        "Sheet1__Cr": "W. of Evergreen S. of Fenkell",
+        "Sheet1__Zi": "48223",
+        "Sheet1__Ob": 113,
+        "ORIG_FID": 683902
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.21748428025535,
+          42.40207897290214
+        ]
+      },
+      "properties": {
+        "wayne_coun": 685962,
+        "wayne_co_1": "15340 SOUTHFIELD",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48227",
+        "wayne_co_5": "22073315-26",
+        "wayne_co_6": 606.43055525,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 21529.5556641,
+        "wayne_c_10": 606.430555248,
+        "Sheet1__Lo": "New St. Paul Tab.",
+        "Sheet1__Pr": "311 / 312",
+        "Sheet1__Ad": "15340 SOUTHFIELD",
+        "Sheet1__Cr": "at Grand  River",
+        "Sheet1__Zi": "48223",
+        "Sheet1__Ob": 115,
+        "ORIG_FID": 685961
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.22361774008799,
+          42.4066203615721
+        ]
+      },
+      "properties": {
+        "wayne_coun": 686890,
+        "wayne_co_1": "18660 BRETTON DR",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48223",
+        "wayne_co_5": "22011857-60",
+        "wayne_co_6": 2155.68324731,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 266111.987793,
+        "wayne_c_10": 2155.68324731,
+        "Sheet1__Lo": "N. Rosedale Pk. Comm.",
+        "Sheet1__Pr": "308 / 310",
+        "Sheet1__Ad": "18660 BRETTON DR",
+        "Sheet1__Cr": "S. of Puritan W. of Southfield",
+        "Sheet1__Zi": "48223",
+        "Sheet1__Ob": 114,
+        "ORIG_FID": 686889
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.25595582098326,
+          42.409397913342616
+        ]
+      },
+      "properties": {
+        "wayne_coun": 689453,
+        "wayne_co_1": "16220 LAHSER",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48219",
+        "wayne_co_5": "22113314-46",
+        "wayne_co_6": 3826.1083065,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 759251.59375,
+        "wayne_c_10": 3826.1083065,
+        "Sheet1__Lo": "Crowell Rec. Center",
+        "Sheet1__Pr": "268/ 269 / 273 / 301 / 304",
+        "Sheet1__Ad": "16220 LAHSER",
+        "Sheet1__Cr": "S. of W. McNichols",
+        "Sheet1__Zi": "48219",
+        "Sheet1__Ob": 102,
+        "ORIG_FID": 689452
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.19087750775184,
+          42.41815659920183
+        ]
+      },
+      "properties": {
+        "wayne_coun": 690750,
+        "wayne_co_1": "6565 W OUTER DRIVE",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48235",
+        "wayne_co_5": "22014008.",
+        "wayne_co_6": 3570.33321587,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 716824.166016,
+        "wayne_c_10": 3570.33321587,
+        "Sheet1__Lo": "FLICS School",
+        "Sheet1__Pr": "231 / 247/ 251 / 252 / 253 / 294",
+        "Sheet1__Ad": "6565 W OUTER DRIVE",
+        "Sheet1__Cr": "at Hubbell",
+        "Sheet1__Zi": "48221",
+        "Sheet1__Ob": 93,
+        "ORIG_FID": 690749
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.18188676317254,
+          42.423438896390934
+        ]
+      },
+      "properties": {
+        "wayne_coun": 690879,
+        "wayne_co_1": "13737 CURTIS",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48235",
+        "wayne_co_5": "22014640-52",
+        "wayne_co_6": 820.86052104,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 39322.4174805,
+        "wayne_c_10": 820.860521035,
+        "Sheet1__Lo": "Gtr. Mitchell Church",
+        "Sheet1__Pr": "246",
+        "Sheet1__Ad": "13737 CURTIS",
+        "Sheet1__Cr": "W. of James Couzens Hwy",
+        "Sheet1__Zi": "48235",
+        "Sheet1__Ob": 95,
+        "ORIG_FID": 690878
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.21783139241678,
+          42.42976035828015
+        ]
+      },
+      "properties": {
+        "wayne_coun": 692044,
+        "wayne_co_1": "17731 W SEVEN MILE",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48235",
+        "wayne_co_5": "22016322-6",
+        "wayne_co_6": 413.26839032,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 10662.8959961,
+        "wayne_c_10": 413.268390316,
+        "Sheet1__Lo": "Chase Library",
+        "Sheet1__Pr": "289",
+        "Sheet1__Ad": "17731 W SEVEN MILE",
+        "Sheet1__Cr": "E. of Southfield Rd.",
+        "Sheet1__Zi": "48235",
+        "Sheet1__Ob": 108,
+        "ORIG_FID": 692043
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.22576374556996,
+          42.43127478370334
+        ]
+      },
+      "properties": {
+        "wayne_coun": 696047,
+        "wayne_co_1": "19125 GREENVIEW",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48219",
+        "wayne_co_5": "22080188-99",
+        "wayne_co_6": 670.71568818,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 25455.4194336,
+        "wayne_c_10": 670.715688181,
+        "Sheet1__Lo": "Calvary Presb. Ch.",
+        "Sheet1__Pr": "282 / 287",
+        "Sheet1__Ad": "19125 GREENVIEW",
+        "Sheet1__Cr": "W. of Southfield at W. Seven Mile",
+        "Sheet1__Zi": "48219",
+        "Sheet1__Ob": 105,
+        "ORIG_FID": 696046
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.18086089698875,
+          42.431996855098
+        ]
+      },
+      "properties": {
+        "wayne_coun": 703314,
+        "wayne_co_1": "19161 SCHAEFER",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48235",
+        "wayne_co_5": "22030491-6",
+        "wayne_co_6": 711.69339307,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 27052.4233398,
+        "wayne_c_10": 711.693393066,
+        "Sheet1__Lo": "Gtr. Emmanuel",
+        "Sheet1__Pr": "228 / 229 / 232 / 233 / 234",
+        "Sheet1__Ad": "19161 SCHAEFER",
+        "Sheet1__Cr": "W. Seven Mile",
+        "Sheet1__Zi": "48235",
+        "Sheet1__Ob": 92,
+        "ORIG_FID": 703313
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.20491961961373,
+          42.43661847100367
+        ]
+      },
+      "properties": {
+        "wayne_coun": 715554,
+        "wayne_co_1": "19801 PREVOST",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48235",
+        "wayne_co_5": "22056223.",
+        "wayne_co_6": 1704.72461806,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 149383.900391,
+        "wayne_c_10": 1704.72461806,
+        "Sheet1__Lo": "Bow School",
+        "Sheet1__Pr": "291 / 292 / 293 / 296",
+        "Sheet1__Ad": "19801 PREVOST",
+        "Sheet1__Cr": "W of Greenfield N of W 7 Mile",
+        "Sheet1__Zi": "48235",
+        "Sheet1__Ob": 109,
+        "ORIG_FID": 715553
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.20592441662922,
+          42.344182652558594
+        ]
+      },
+      "properties": {
+        "wayne_coun": 719230,
+        "wayne_co_1": "16400 W WARREN",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48228",
+        "wayne_co_5": "22000842.",
+        "wayne_co_6": 916.01016599,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 34794.9545898,
+        "wayne_c_10": 916.010165991,
+        "Sheet1__Lo": "Wm. Ford Mem. Ch.",
+        "Sheet1__Pr": "376 / 377",
+        "Sheet1__Ad": "16400 W WARREN",
+        "Sheet1__Cr": "E. of Southfield",
+        "Sheet1__Zi": "48228",
+        "Sheet1__Ob": 133,
+        "ORIG_FID": 719229
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.20974566541788,
+          42.422038101007544
+        ]
+      },
+      "properties": {
+        "wayne_coun": 719806,
+        "wayne_co_1": "16411 CURTIS",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48235",
+        "wayne_co_5": "22061830.",
+        "wayne_co_6": 1613.90203156,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 128531.333008,
+        "wayne_c_10": 1613.90203156,
+        "Sheet1__Lo": "Winans Rutherford Academy",
+        "Sheet1__Pr": "295",
+        "Sheet1__Ad": "16411 CURTIS",
+        "Sheet1__Cr": "W of Greenfield N of W McNichols",
+        "Sheet1__Zi": "48235",
+        "Sheet1__Ob": 110,
+        "ORIG_FID": 719805
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2121696130062,
+          42.4297634067057
+        ]
+      },
+      "properties": {
+        "wayne_coun": 721074,
+        "wayne_co_1": "17101 W SEVEN MILE",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48235",
+        "wayne_co_5": "22016271.",
+        "wayne_co_6": 780.16843316,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 38016.2583008,
+        "wayne_c_10": 780.168433162,
+        "Sheet1__Lo": "First Baptist Inst. Church",
+        "Sheet1__Pr": "288 / 290",
+        "Sheet1__Ad": "17101 W SEVEN MILE",
+        "Sheet1__Cr": "btwn Greenfield & Southfield Exp.",
+        "Sheet1__Zi": "48235",
+        "Sheet1__Ob": 107,
+        "ORIG_FID": 721073
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.21087838651093,
+          42.38335329170799
+        ]
+      },
+      "properties": {
+        "wayne_coun": 721310,
+        "wayne_co_1": "16650 GLENDALE",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48227",
+        "wayne_co_5": "22066225.020",
+        "wayne_co_6": 1894.54319826,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 103461.306152,
+        "wayne_c_10": 1894.54319826,
+        "Sheet1__Lo": "Dossin Elementary School",
+        "Sheet1__Pr": "359 / 378 / 379",
+        "Sheet1__Ad": "16650 GLENDALE",
+        "Sheet1__Cr": "near Schoolcraft",
+        "Sheet1__Zi": "48227",
+        "Sheet1__Ob": 128,
+        "ORIG_FID": 721309
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.21395083877752,
+          42.397298145461335
+        ]
+      },
+      "properties": {
+        "wayne_coun": 722978,
+        "wayne_co_1": "17045 W GRAND RIVER",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48227",
+        "wayne_co_5": "22007190.",
+        "wayne_co_6": 2459.54688612,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 197076.393555,
+        "wayne_c_10": 2459.54688612,
+        "Sheet1__Lo": "Edison School",
+        "Sheet1__Pr": "323 / 324 / 326 / 328 / 329",
+        "Sheet1__Ad": "17045 W GRAND RIVER",
+        "Sheet1__Cr": "at Southfield",
+        "Sheet1__Zi": "48227",
+        "Sheet1__Ob": 118,
+        "ORIG_FID": 722977
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.21594765056665,
+          42.40780445703501
+        ]
+      },
+      "properties": {
+        "wayne_coun": 724055,
+        "wayne_co_1": "15888 ARCHDALE",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48227",
+        "wayne_co_5": "22071286-9",
+        "wayne_co_6": 1174.1918299,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 82243.4848633,
+        "wayne_c_10": 1174.1918299,
+        "Sheet1__Lo": "St. Timothy Unt. Meth.",
+        "Sheet1__Pr": "315 / 316 / 317",
+        "Sheet1__Ad": "15888 ARCHDALE",
+        "Sheet1__Cr": "E. of Southfield at Puritan",
+        "Sheet1__Zi": "48227",
+        "Sheet1__Ob": 116,
+        "ORIG_FID": 724054
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.21603439803945,
+          42.381644357687485
+        ]
+      },
+      "properties": {
+        "wayne_coun": 724130,
+        "wayne_co_1": "17701 GLENDALE",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48227",
+        "wayne_co_5": "22071975-80",
+        "wayne_co_6": 1131.52950228,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 78017.0358887,
+        "wayne_c_10": 1131.52950228,
+        "Sheet1__Lo": "Gethsemane Church",
+        "Sheet1__Pr": "361 / 362",
+        "Sheet1__Ad": "17701 GLENDALE",
+        "Sheet1__Cr": "at Southfield",
+        "Sheet1__Zi": "48223",
+        "Sheet1__Ob": 129,
+        "ORIG_FID": 724129
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.21988717932551,
+          42.41810802749201
+        ]
+      },
+      "properties": {
+        "wayne_coun": 726008,
+        "wayne_co_1": "17365 SOUTHFIELD",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48219",
+        "wayne_co_5": "22074137-99",
+        "wayne_co_6": 3149.12802893,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 335543.758789,
+        "wayne_c_10": 3149.12802893,
+        "Sheet1__Lo": "St Scholastica Activity Bldg",
+        "Sheet1__Pr": "285 / 297 / 313",
+        "Sheet1__Ad": "17365 SOUTHFIELD",
+        "Sheet1__Cr": "at Outer Drive",
+        "Sheet1__Zi": "48219",
+        "Sheet1__Ob": 106,
+        "ORIG_FID": 726007
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.22571399134927,
+          42.409065182562195
+        ]
+      },
+      "properties": {
+        "wayne_coun": 729170,
+        "wayne_co_1": "18800 PURITAN",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48223",
+        "wayne_co_5": "22083143.",
+        "wayne_co_6": 1738.36891324,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 160031.26709,
+        "wayne_c_10": 1738.36891324,
+        "Sheet1__Lo": "Cooke School",
+        "Sheet1__Pr": "299 / 309 /325 / 495",
+        "Sheet1__Ad": "18800 PURITAN",
+        "Sheet1__Cr": "W of Southfield N of Grand River",
+        "Sheet1__Zi": "48223",
+        "Sheet1__Ob": 111,
+        "ORIG_FID": 729169
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.22344739836619,
+          42.33520687410189
+        ]
+      },
+      "properties": {
+        "wayne_coun": 729660,
+        "wayne_co_1": "6200 STAHELIN",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48228",
+        "wayne_co_5": "22082709-21",
+        "wayne_co_6": 1582.61313613,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 139758.345459,
+        "wayne_c_10": 1582.61313613,
+        "Sheet1__Lo": "Carver Stem Academy",
+        "Sheet1__Pr": "335 / 336 / 337 / 338 / 340 / 355",
+        "Sheet1__Ad": "6200 STAHELIN",
+        "Sheet1__Cr": "S. of Warren W. of Southfield",
+        "Sheet1__Zi": "48228",
+        "Sheet1__Ob": 123,
+        "ORIG_FID": 729659
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.23871162687327,
+          42.39369396629827
+        ]
+      },
+      "properties": {
+        "wayne_coun": 737008,
+        "wayne_co_1": "20280 LYNDON",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48223",
+        "wayne_co_5": "22010395-405",
+        "wayne_co_6": 859.84944587,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 35641.8696289,
+        "wayne_c_10": 859.849445871,
+        "Sheet1__Lo": "Citadel of Praise",
+        "Sheet1__Pr": "351",
+        "Sheet1__Ad": "20280 LYNDON",
+        "Sheet1__Cr": "btwn Luce Ave. & Charles St.",
+        "Sheet1__Zi": "48223",
+        "Sheet1__Ob": 126,
+        "ORIG_FID": 737007
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.257115957068,
+          42.42788539549858
+        ]
+      },
+      "properties": {
+        "wayne_coun": 741609,
+        "wayne_co_1": "21605 W SEVEN MILE",
+        "wayne_co_2": "DETROIT",
+        "wayne_co_3": "MI",
+        "wayne_co_4": "48219",
+        "wayne_co_5": "22016647.",
+        "wayne_co_6": 1995.57145898,
+        "wayne_co_7": "",
+        "wayne_co_8": "",
+        "wayne_co_9": 124888.604492,
+        "wayne_c_10": 1995.57145898,
+        "Sheet1__Lo": "Detroit Service Learning Academy",
+        "Sheet1__Pr": "263/ 265 / 266 / 267 / 272",
+        "Sheet1__Ad": "21605 W SEVEN MILE",
+        "Sheet1__Cr": "at Lahser",
+        "Sheet1__Zi": "48219",
+        "Sheet1__Ob": 100,
+        "ORIG_FID": 741608
+      }
+    }
+  ],
+  "fileName": "poll locales/polling_locations"
+}
